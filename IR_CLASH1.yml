@@ -96,618 +96,617 @@ dns:
     - "*.ipv6.microsoft.com"
     - speedtest.cros.wr.pvp.net
 proxies:
-  - {name: AE 🇦🇪 Dubai @BZ, server: 217.138.193.10, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AE 🇦🇪 Sharjah @BZ, server: 109.169.72.239, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AE 🇦🇪 Sharjah @BZ 2, server: 109.169.72.249, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AU 🇦🇺 Sydney @BZ, server: 192.53.168.189, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: AU 🇦🇺 Sydney @BZ 2, server: 172.105.162.49, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: AU 🇦🇺 Sydney @BZ 3, server: 172.105.177.120, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: AU 🇦🇺 Sydney @BZ 4, server: 172.105.184.113, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: AZ 🇦🇿 @BZ, server: 94.20.154.38, port: 50001, type: ss, cipher: aes-256-cfb, password: !<str> 3886060542, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ, server: 185.212.111.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 2, server: 185.212.111.59, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 3, server: 185.212.111.59, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 4, server: 185.99.3.102, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 5, server: 185.99.3.102, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 6, server: 185.99.3.102, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 7, server: 185.99.3.108, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 8, server: 185.99.3.108, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd, udp: true}
-  - {name: BA 🇧🇦 Novi Travnik @BZ 9, server: 185.212.111.59, port: 4939, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB, udp: true}
-  - {name: BE 🇧🇪 Brussels @BZ, server: 193.9.114.34, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ, server: 134.195.196.60, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 2, server: 134.195.196.128, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 3, server: 134.195.196.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 4, server: 134.195.196.12, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 5, server: 134.195.196.128, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 6, server: 134.195.196.71, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: CA 🇨🇦 Toronto @BZ 7, server: 134.195.196.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: CH 🇨🇭 Zurich @BZ, server: 37.120.213.230, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: CN 🇨🇳 @BZ, server: 118.193.179.2, port: 36923, type: ss, cipher: chacha20-ietf-poly1305, password: koko666, udp: true}
-  - {name: CY 🇨🇾 @BZ, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: DE 🇩🇪 @BZ, server: 193.108.118.36, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: DE 🇩🇪 @BZ 2, server: 193.108.118.34, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: DE 🇩🇪 @BZ 3, server: 49.12.203.80, port: 40960, type: ss, cipher: aes-256-gcm, password: 6kA7b3f9Aw2508erQ3W7D4, udp: true}
-  - {name: DE 🇩🇪 Düsseldorf @BZ, server: 89.163.212.17, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @BZ, server: 139.162.132.116, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @BZ 2, server: 139.162.189.117, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @BZ 3, server: 139.162.132.116, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @BZ 4, server: 37.61.223.23, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
-  - {name: ES 🇪🇸 Madrid @BZ, server: 92.38.171.103, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: FR 🇫🇷 @BZ, server: 5.39.70.138, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: FR 🇫🇷 @BZ 2, server: 95.142.161.161, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: X7EBlPe92tq6, udp: true}
-  - {name: FR 🇫🇷 @BZ 3, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: FR 🇫🇷 Vélizy-Villacoublay @BZ, server: 195.154.200.150, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: GB 🇬🇧 @BZ, server: 212.38.189.174, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: GB 🇬🇧 @BZ 2, server: 78.129.253.9, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: GB 🇬🇧 @BZ 3, server: 212.38.189.174, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: GB 🇬🇧 London @BZ, server: 149.7.16.10, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: GB 🇬🇧 London @BZ 2, server: 149.7.16.10, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: GB 🇬🇧 London @BZ 3, server: 149.7.16.10, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: GR 🇬🇷 Thessaloniki @BZ, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: HK 🇭🇰 Central @BZ, server: 62.216.92.167, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: HK 🇭🇰 Central @BZ 2, server: 148.66.56.98, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: ID 🇮🇩 @BZ, server: 103.84.192.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IL 🇮🇱 Jerusalem @BZ, server: 185.162.126.217, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: IL 🇮🇱 Jerusalem @BZ 2, server: 31.133.100.49, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: IM 🇮🇲 Douglas @BZ, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IN 🇮🇳 Mumbai @BZ, server: 172.105.40.184, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: IN 🇮🇳 Mumbai @BZ 2, server: 192.46.208.123, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: IN 🇮🇳 Mumbai @BZ 3, server: 172.105.59.32, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: IS 🇮🇸 @BZ, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IT 🇮🇹 @BZ, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IT 🇮🇹 @BZ 2, server: 84.33.193.79, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
-  - {name: IT 🇮🇹 Milan @BZ, server: 158.58.173.240, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: IT 🇮🇹 Milan @BZ 2, server: 158.58.173.54, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @BZ, server: 172.104.82.126, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: JP 🇯🇵 Tokyo @BZ 2, server: 185.160.24.217, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @BZ 3, server: 89.31.125.101, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @BZ 4, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: KR 🇰🇷 Seoul @BZ, server: 158.247.199.253, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: KR 🇰🇷 Seoul @BZ 2, server: 158.247.222.102, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: KR 🇰🇷 Seoul @BZ 3, server: 158.247.205.87, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: KR 🇰🇷 Seoul @BZ 4, server: 141.164.35.41, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: LU 🇱🇺 Luxembourg @BZ, server: 92.223.105.40, port: 50006, type: ss, cipher: aes-256-cfb, password: !<str> 9344665077, udp: true}
-  - {name: MD 🇲🇩 Chisinau @BZ, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: NL 🇳🇱 @BZ, server: 194.104.136.226, port: 4040, type: ss, cipher: chacha20-ietf-poly1305, password: H4Qxny4Kp3rv58V0, udp: true}
-  - {name: NL 🇳🇱 @BZ 2, server: 91.232.105.253, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: NL 🇳🇱 @BZ 3, server: 37.218.247.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YbOE6O1uwbUv, udp: true}
-  - {name: NL 🇳🇱 @BZ 4, server: 178.239.173.23, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
-  - {name: NL 🇳🇱 @BZ 5, server: 91.232.105.253, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: NL 🇳🇱 Amsterdam @BZ, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: NL 🇳🇱 Amsterdam @BZ 2, server: 88.208.7.199, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: NL 🇳🇱 Amsterdam @BZ 3, server: 45.147.160.86, port: 813, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017, udp: true}
-  - {name: PL 🇵🇱 @BZ, server: 194.15.196.78, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: PL 🇵🇱 @BZ 2, server: 194.15.196.78, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: PL 🇵🇱 Warsaw @BZ, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: RO 🇷🇴 @BZ, server: 185.233.150.6, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
-  - {name: RU 🇷🇺 @BZ, server: 194.34.239.105, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
-  - {name: RU 🇷🇺 Moscow @BZ, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: RU 🇷🇺 Moscow @BZ 2, server: 213.183.41.38, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
-  - {name: RU 🇷🇺 Moscow @BZ 3, server: 213.183.53.177, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf, udp: true}
-  - {name: RU 🇷🇺 Moscow @BZ 4, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
-  - {name: SE 🇸🇪 Stockholm @BZ, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: SE 🇸🇪 Stockholm @BZ 2, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ, server: 172.104.44.88, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 2, server: 81.90.189.207, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 3, server: 172.104.44.88, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 4, server: 217.197.161.138, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 5, server: 139.162.58.13, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 6, server: 45.118.133.51, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 7, server: 51.79.166.171, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 8, server: 51.79.177.159, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 9, server: 139.162.58.13, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 10, server: 139.99.123.156, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 11, server: 139.99.123.156, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 12, server: 139.162.58.13, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: SG 🇸🇬 Singapore @BZ 13, server: 139.162.58.13, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: SI 🇸🇮 Ljubljana @BZ, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: TH 🇹🇭 @BZ, server: 119.59.113.126, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: TR 🇹🇷 @BZ, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
-  - {name: TR 🇹🇷 Istanbul @BZ, server: 185.219.134.52, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: TW 🇹🇼 New Taipei @BZ, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: UA 🇺🇦 @BZ, server: 176.103.61.162, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: IjBemsAg, udp: true}
-  - {name: UA 🇺🇦 @BZ 2, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
-  - {name: UA 🇺🇦 @BZ 3, server: 82.118.21.21, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: UA 🇺🇦 Dnipropetrovsk @BZ, server: 194.38.23.137, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Neavloims, udp: true}
-  - {name: UA 🇺🇦 Khmelnytskyy @BZ, server: 195.226.192.55, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: FruvDom0, udp: true}
-  - {name: UA 🇺🇦 Kyiv @BZ, server: 31.172.65.242, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Doquawwa, udp: true}
-  - {name: UA 🇺🇦 Kyiv @BZ 2, server: 45.153.229.146, port: 4040, type: ss, cipher: chacha20-ietf-poly1305, password: qqSA3SvOpMGMmJCO, udp: true}
-  - {name: US 🇺🇸 @BZ, server: 147.182.151.24, port: 20110, type: ss, cipher: aes-256-cfb, password: f5e0ecc4e6b84a668ee9ed98e0a30ca9, udp: true}
-  - {name: US 🇺🇸 @BZ 2, server: 104.237.224.144, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ, server: 38.121.43.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 2, server: 167.88.63.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 3, server: 167.88.63.117, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 4, server: 167.88.63.119, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 5, server: 167.88.63.60, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 6, server: 167.88.63.93, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 7, server: 167.88.63.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 8, server: 167.88.63.71, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 9, server: 167.88.63.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 10, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 11, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 12, server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 13, server: 38.121.43.91, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 14, server: 167.88.63.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 15, server: 38.121.43.91, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 16, server: 167.88.63.64, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 17, server: 167.88.63.93, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 18, server: 167.88.63.89, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 19, server: 38.121.43.142, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 20, server: 167.88.63.11, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 21, server: 38.121.43.27, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 22, server: 167.88.63.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 23, server: 38.121.43.142, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 24, server: 167.88.63.89, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 25, server: 167.88.63.71, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 26, server: 167.88.63.44, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 27, server: 167.88.63.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 28, server: 38.121.43.142, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 29, server: 167.88.63.82, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 30, server: 38.121.43.91, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 31, server: 167.88.63.82, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 32, server: 172.99.190.188, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @BZ 33, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ, server: 38.64.138.145, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 2, server: 38.64.138.145, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 3, server: 38.64.138.145, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 4, server: 38.64.138.145, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 5, server: 38.64.138.145, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 6, server: 38.64.138.145, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 7, server: 38.64.138.145, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 8, server: 38.64.138.145, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 9, server: 38.64.138.145, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 10, server: 38.64.138.145, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 11, server: 162.251.61.221, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 12, server: 38.64.138.212, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Chicago @BZ 13, server: 38.64.138.145, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ, server: 38.68.134.23, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ 2, server: 38.68.134.69, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ 3, server: 38.107.226.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ 4, server: 38.107.226.146, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ 5, server: 38.68.134.37, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Dallas @BZ 6, server: 38.68.134.190, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: US 🇺🇸 Los Angeles @BZ, server: 38.114.114.68, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Los Angeles @BZ 2, server: 38.75.136.45, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: US 🇺🇸 Los Angeles @BZ 3, server: 38.75.136.93, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Los Angeles @BZ 4, server: 38.75.136.21, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Memphis @BZ, server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: US 🇺🇸 Memphis @BZ 2, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: US 🇺🇸 Miami @BZ, server: 38.91.106.51, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Miami @BZ 2, server: 38.91.107.43, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Miami @BZ 3, server: 38.91.107.225, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: US 🇺🇸 Miami @BZ 4, server: 38.91.107.232, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Newark @BZ, server: 142.202.48.83, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Newark @BZ 2, server: 142.202.48.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Newark @BZ 3, server: 142.202.48.99, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Newark @BZ 4, server: 142.202.48.14, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Reston @BZ, server: 38.86.135.169, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Reston @BZ 2, server: 38.86.135.27, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Reston @BZ 3, server: 38.86.135.126, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Santa Clara @BZ, server: 167.88.61.5, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Santa Clara @BZ 2, server: 167.88.61.96, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Santa Clara @BZ 3, server: 167.88.61.204, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: US 🇺🇸 Santa Clara @BZ 4, server: 167.88.61.204, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Seattle @BZ, server: 38.143.66.20, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Seattle @BZ 2, server: 38.143.66.71, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Seattle @BZ 3, server: 38.143.66.55, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: US 🇺🇸 Seattle @BZ 4, server: 38.143.66.99, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 West New York @BZ, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: VN 🇻🇳 @BZ, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: ZA 🇿🇦 @BZ, server: 102.130.121.237, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: ZA 🇿🇦 @BZ 2, server: 102.130.118.99, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: ZA 🇿🇦 Johannesburg @BZ, server: 156.251.176.182, port: 43946, type: ss, cipher: aes-256-gcm, password: 4MHQmljRI0, udp: true}
-  - {name: ZA 🇿🇦 Vereeniging, server: 102.130.121.237, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: AE 🇦🇪 Sharjah @KURD_SERVER, server: 109.169.72.249, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER, server: 192.53.169.116, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 2, server: 172.105.177.120, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 3, server: 172.105.162.49, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 4, server: 172.105.184.113, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 5, server: 172.105.254.242, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 6, server: 172.105.162.49, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 7, server: 192.53.169.116, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 8, server: 172.105.177.120, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: AU 🇦🇺 Sydney @KURD_SERVER 9, server: 185.167.116.38, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true}
+  - {name: AZ 🇦🇿 @KURD_SERVER, server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
+  - {name: BE 🇧🇪 Brussels @KURD_SERVER, server: 193.9.114.34, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER, server: 213.183.63.217, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 2, server: 213.183.63.221, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 3, server: 213.183.63.221, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 4, server: 213.183.63.221, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 5, server: 213.183.63.219, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 6, server: 213.183.63.218, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 7, server: 213.183.63.217, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
+  - {name: BG 🇧🇬 Sofia @KURD_SERVER 8, server: 213.183.63.221, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true}
+  - {name: CA 🇨🇦 @KURD_SERVER, server: 169.197.142.238, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: CA 🇨🇦 @KURD_SERVER 2, server: 198.57.27.14, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA 🇨🇦 @KURD_SERVER 3, server: 198.57.27.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: CH 🇨🇭 @KURD_SERVER, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER, server: 185.126.116.124, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 2, server: 185.126.116.124, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 3, server: 185.126.116.124, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 4, server: 185.126.116.117, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 5, server: 185.126.116.124, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 6, server: 185.126.116.117, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 7, server: 185.126.116.117, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: CH 🇨🇭 Zurich @KURD_SERVER 8, server: 185.126.116.117, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER, server: 14.29.124.168, port: 25217, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER 2, server: 14.29.124.168, port: 25256, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER 3, server: 14.29.124.168, port: 25283, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER 4, server: 14.29.124.168, port: 25286, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER 5, server: 14.29.124.168, port: 25296, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @KURD_SERVER 6, server: 14.29.124.168, port: 25297, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CY 🇨🇾 @KURD_SERVER, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: CY 🇨🇾 @KURD_SERVER 2, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: DE 🇩🇪 @KURD_SERVER, server: 93.186.201.124, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER, server: 172.105.244.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 2, server: 172.105.244.165, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 3, server: 139.162.132.116, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 4, server: 139.162.130.101, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 5, server: 139.162.132.116, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 6, server: 139.162.132.116, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 7, server: 139.162.132.116, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 8, server: 139.162.130.101, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 9, server: 139.162.130.101, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 10, server: 5.183.179.166, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 11, server: 5.183.179.139, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 12, server: 5.183.179.146, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 13, server: 5.183.179.170, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 14, server: 5.183.179.166, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 15, server: 5.183.179.170, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @KURD_SERVER 16, server: 5.183.179.139, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true}
+  - {name: FR 🇫🇷 @KURD_SERVER, server: 5.39.70.138, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: FR 🇫🇷 @KURD_SERVER 2, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: FR 🇫🇷 @KURD_SERVER 3, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: FR 🇫🇷 @KURD_SERVER 4, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: GB 🇬🇧 @KURD_SERVER, server: 78.129.253.9, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GB 🇬🇧 @KURD_SERVER 2, server: 78.129.253.9, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GB 🇬🇧 London @KURD_SERVER, server: 149.7.16.10, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: GB 🇬🇧 London @KURD_SERVER 2, server: 149.7.16.10, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: GB 🇬🇧 London @KURD_SERVER 3, server: 152.89.210.105, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
+  - {name: GB 🇬🇧 Walthamstow @KURD_SERVER, server: 51.68.205.180, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: GR 🇬🇷 Thessaloniki @KURD_SERVER, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: HK 🇭🇰 Central @KURD_SERVER, server: 62.216.92.167, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: HU 🇭🇺 Budapest @KURD_SERVER, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: IL 🇮🇱 Haifa @KURD_SERVER, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER, server: 172.105.42.160, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 2, server: 172.105.42.160, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 3, server: 172.105.42.160, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 4, server: 172.105.39.228, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 5, server: 172.105.59.32, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 6, server: 172.105.42.160, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 7, server: 172.105.39.228, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: IN 🇮🇳 Mumbai @KURD_SERVER 8, server: 172.105.35.151, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: IS 🇮🇸 @KURD_SERVER, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: IS 🇮🇸 @KURD_SERVER 2, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: IT 🇮🇹 Milan @KURD_SERVER, server: 92.223.79.76, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER, server: 172.105.232.147, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 2, server: 172.105.232.147, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 3, server: 185.160.24.217, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 4, server: 89.31.125.101, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 5, server: 45.66.134.176, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 6, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: JP 🇯🇵 Tokyo @KURD_SERVER 7, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER, server: 158.247.223.116, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 2, server: 141.164.49.240, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 3, server: 158.247.215.187, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 4, server: 158.247.209.92, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 5, server: 158.247.203.40, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 6, server: 141.164.57.134, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 7, server: 158.247.206.19, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 8, server: 158.247.206.19, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 9, server: 141.164.57.134, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 10, server: 141.164.38.135, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 11, server: 141.164.35.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 12, server: 141.164.56.110, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: KR 🇰🇷 Seoul @KURD_SERVER 13, server: 158.247.209.92, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: NL 🇳🇱 @KURD_SERVER, server: 213.183.59.185, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: NL 🇳🇱 @KURD_SERVER 2, server: 213.183.59.218, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true}
+  - {name: NL 🇳🇱 Amsterdam @KURD_SERVER, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: NL 🇳🇱 Amsterdam @KURD_SERVER 2, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: NZ 🇳🇿 Auckland @KURD_SERVER, server: 103.62.49.141, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: RS 🇷🇸 Belgrade @KURD_SERVER, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: RU 🇷🇺 @KURD_SERVER, server: 217.30.10.63, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true}
+  - {name: RU 🇷🇺 @KURD_SERVER 2, server: 217.30.10.63, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
+  - {name: RU 🇷🇺 Moscow @KURD_SERVER, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: RU 🇷🇺 Moscow @KURD_SERVER 2, server: 213.183.53.177, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf, udp: true}
+  - {name: RU 🇷🇺 Moscow @KURD_SERVER 3, server: 213.183.53.202, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: RU 🇷🇺 Moscow @KURD_SERVER 4, server: 213.183.53.202, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, udp: true}
+  - {name: RU 🇷🇺 Moscow @KURD_SERVER 5, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: RU 🇷🇺 St Petersburg @KURD_SERVER, server: 92.223.65.31, port: 29092, type: ss, cipher: chacha20-ietf-poly1305, password: ypoq8dJBPqst, udp: true}
+  - {name: SE 🇸🇪 Stockholm @KURD_SERVER, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: SE 🇸🇪 Stockholm @KURD_SERVER 2, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: SE 🇸🇪 Stockholm @KURD_SERVER 3, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: SE 🇸🇪 Stockholm @KURD_SERVER 4, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: SG 🇸🇬 Singapore @KURD_SERVER, server: 172.104.44.88, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: SG 🇸🇬 Singapore @KURD_SERVER 2, server: 172.104.44.88, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: SI 🇸🇮 Ljubljana @KURD_SERVER, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: SI 🇸🇮 Ljubljana @KURD_SERVER 2, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: TH 🇹🇭 @KURD_SERVER, server: 119.59.113.126, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: TH 🇹🇭 @KURD_SERVER 2, server: 119.59.113.126, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: TR 🇹🇷 @KURD_SERVER, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+  - {name: TR 🇹🇷 @KURD_SERVER 2, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+  - {name: TW 🇹🇼 New Taipei @KURD_SERVER, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: UA 🇺🇦 @KURD_SERVER, server: 176.103.61.162, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: IjBemsAg, udp: true}
+  - {name: UA 🇺🇦 @KURD_SERVER 2, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
+  - {name: UA 🇺🇦 @KURD_SERVER 3, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
+  - {name: UA 🇺🇦 Dnipropetrovsk @KURD_SERVER, server: 194.38.23.137, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Neavloims, udp: true}
+  - {name: UA 🇺🇦 Khmelnytskyy @KURD_SERVER, server: 195.226.192.55, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: FruvDom0, udp: true}
+  - {name: UA 🇺🇦 Khmelnytskyy @KURD_SERVER 2, server: 195.226.192.55, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: FruvDom0, udp: true}
+  - {name: UA 🇺🇦 Kyiv @KURD_SERVER, server: 45.153.229.146, port: 4040, type: ss, cipher: chacha20-ietf-poly1305, password: qqSA3SvOpMGMmJCO, udp: true}
+  - {name: UA 🇺🇦 Kyiv @KURD_SERVER 2, server: 31.172.65.242, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Doquawwa, udp: true}
+  - {name: US 🇺🇸 @KURD_SERVER, server: 38.242.209.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PZJIsvVevvjz, udp: true}
+  - {name: US 🇺🇸 Atlanta @KURD_SERVER, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Atlanta @KURD_SERVER 2, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Atlanta @KURD_SERVER 3, server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Atlanta @KURD_SERVER 4, server: 167.88.63.71, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Chicago @KURD_SERVER, server: 38.64.138.145, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Chicago @KURD_SERVER 2, server: 38.64.138.145, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US 🇺🇸 Chicago @KURD_SERVER 3, server: 38.64.138.212, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Chicago @KURD_SERVER 4, server: 162.251.61.221, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER, server: 167.88.62.68, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 2, server: 167.88.62.68, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 3, server: 38.68.135.18, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 4, server: 38.68.134.85, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 5, server: 38.68.135.123, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 6, server: 38.68.134.191, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Dallas @KURD_SERVER 7, server: 167.88.62.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER, server: 38.114.114.68, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 2, server: 38.75.136.102, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 3, server: 38.75.136.117, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 4, server: 38.75.136.49, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 5, server: 38.75.136.49, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 6, server: 38.75.136.116, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 7, server: 38.75.136.116, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Los Angeles @KURD_SERVER 8, server: 38.75.136.102, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Memphis @KURD_SERVER, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: US 🇺🇸 Miami @KURD_SERVER, server: 38.91.107.43, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER, server: 142.202.48.14, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER 2, server: 142.202.48.77, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER 3, server: 142.202.48.83, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER 4, server: 142.202.48.45, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER 5, server: 38.91.100.102, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Newark @KURD_SERVER 6, server: 142.202.48.43, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US 🇺🇸 Philadelphia @KURD_SERVER, server: 208.85.23.137, port: 27297, type: ss, cipher: aes-256-cfb, password: 67d4e302ac8f47bf92c42afe6f085221, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER, server: 38.86.135.27, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 2, server: 38.86.135.27, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 3, server: 38.86.135.126, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 4, server: 38.86.135.27, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 5, server: 38.86.135.126, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 6, server: 38.86.135.126, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Reston @KURD_SERVER 7, server: 38.86.135.239, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER, server: 167.88.61.204, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 2, server: 167.88.61.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 3, server: 167.88.61.14, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 4, server: 167.88.61.204, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 5, server: 167.88.61.109, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 6, server: 167.88.61.130, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 7, server: 167.88.61.204, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 8, server: 167.88.61.236, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: US 🇺🇸 Santa Clara @KURD_SERVER 9, server: 167.88.61.109, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER, server: 38.143.66.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 2, server: 38.143.66.87, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 3, server: 38.143.66.55, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 4, server: 38.143.66.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 5, server: 38.143.66.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 6, server: 38.143.66.99, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 7, server: 38.143.66.186, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 8, server: 38.143.66.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 9, server: 38.143.66.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 10, server: 38.143.66.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Seattle @KURD_SERVER 11, server: 38.143.66.55, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: VN 🇻🇳 @KURD_SERVER, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: ZA 🇿🇦 @KURD_SERVER, server: 102.130.121.237, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: ZA 🇿🇦 @KURD_SERVER 2, server: 102.130.118.99, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
 proxy-groups:
   - name: 🔰 All Proxies
     type: select
     proxies:
-      - 🔥 Auto(Best ping)
-      - AE 🇦🇪 Dubai @BZ
-      - AE 🇦🇪 Sharjah @BZ
-      - AE 🇦🇪 Sharjah @BZ 2
-      - AU 🇦🇺 Sydney @BZ
-      - AU 🇦🇺 Sydney @BZ 2
-      - AU 🇦🇺 Sydney @BZ 3
-      - AU 🇦🇺 Sydney @BZ 4
-      - AZ 🇦🇿 @BZ
-      - BA 🇧🇦 Novi Travnik @BZ
-      - BA 🇧🇦 Novi Travnik @BZ 2
-      - BA 🇧🇦 Novi Travnik @BZ 3
-      - BA 🇧🇦 Novi Travnik @BZ 4
-      - BA 🇧🇦 Novi Travnik @BZ 5
-      - BA 🇧🇦 Novi Travnik @BZ 6
-      - BA 🇧🇦 Novi Travnik @BZ 7
-      - BA 🇧🇦 Novi Travnik @BZ 8
-      - BA 🇧🇦 Novi Travnik @BZ 9
-      - BE 🇧🇪 Brussels @BZ
-      - CA 🇨🇦 Toronto @BZ
-      - CA 🇨🇦 Toronto @BZ 2
-      - CA 🇨🇦 Toronto @BZ 3
-      - CA 🇨🇦 Toronto @BZ 4
-      - CA 🇨🇦 Toronto @BZ 5
-      - CA 🇨🇦 Toronto @BZ 6
-      - CA 🇨🇦 Toronto @BZ 7
-      - CH 🇨🇭 Zurich @BZ
-      - CN 🇨🇳 @BZ
-      - CY 🇨🇾 @BZ
-      - DE 🇩🇪 @BZ
-      - DE 🇩🇪 @BZ 2
-      - DE 🇩🇪 @BZ 3
-      - DE 🇩🇪 Düsseldorf @BZ
-      - DE 🇩🇪 Frankfurt am Main @BZ
-      - DE 🇩🇪 Frankfurt am Main @BZ 2
-      - DE 🇩🇪 Frankfurt am Main @BZ 3
-      - DE 🇩🇪 Frankfurt am Main @BZ 4
-      - ES 🇪🇸 Madrid @BZ
-      - FR 🇫🇷 @BZ
-      - FR 🇫🇷 @BZ 2
-      - FR 🇫🇷 @BZ 3
-      - FR 🇫🇷 Vélizy-Villacoublay @BZ
-      - GB 🇬🇧 @BZ
-      - GB 🇬🇧 @BZ 2
-      - GB 🇬🇧 @BZ 3
-      - GB 🇬🇧 London @BZ
-      - GB 🇬🇧 London @BZ 2
-      - GB 🇬🇧 London @BZ 3
-      - GR 🇬🇷 Thessaloniki @BZ
-      - HK 🇭🇰 Central @BZ
-      - HK 🇭🇰 Central @BZ 2
-      - ID 🇮🇩 @BZ
-      - IL 🇮🇱 Jerusalem @BZ
-      - IL 🇮🇱 Jerusalem @BZ 2
-      - IM 🇮🇲 Douglas @BZ
-      - IN 🇮🇳 Mumbai @BZ
-      - IN 🇮🇳 Mumbai @BZ 2
-      - IN 🇮🇳 Mumbai @BZ 3
-      - IS 🇮🇸 @BZ
-      - IT 🇮🇹 @BZ
-      - IT 🇮🇹 @BZ 2
-      - IT 🇮🇹 Milan @BZ
-      - IT 🇮🇹 Milan @BZ 2
-      - JP 🇯🇵 Tokyo @BZ
-      - JP 🇯🇵 Tokyo @BZ 2
-      - JP 🇯🇵 Tokyo @BZ 3
-      - JP 🇯🇵 Tokyo @BZ 4
-      - KR 🇰🇷 Seoul @BZ
-      - KR 🇰🇷 Seoul @BZ 2
-      - KR 🇰🇷 Seoul @BZ 3
-      - KR 🇰🇷 Seoul @BZ 4
-      - LU 🇱🇺 Luxembourg @BZ
-      - MD 🇲🇩 Chisinau @BZ
-      - NL 🇳🇱 @BZ
-      - NL 🇳🇱 @BZ 2
-      - NL 🇳🇱 @BZ 3
-      - NL 🇳🇱 @BZ 4
-      - NL 🇳🇱 @BZ 5
-      - NL 🇳🇱 Amsterdam @BZ
-      - NL 🇳🇱 Amsterdam @BZ 2
-      - NL 🇳🇱 Amsterdam @BZ 3
-      - PL 🇵🇱 @BZ
-      - PL 🇵🇱 @BZ 2
-      - PL 🇵🇱 Warsaw @BZ
-      - RO 🇷🇴 @BZ
-      - RU 🇷🇺 @BZ
-      - RU 🇷🇺 Moscow @BZ
-      - RU 🇷🇺 Moscow @BZ 2
-      - RU 🇷🇺 Moscow @BZ 3
-      - RU 🇷🇺 Moscow @BZ 4
-      - SE 🇸🇪 Stockholm @BZ
-      - SE 🇸🇪 Stockholm @BZ 2
-      - SG 🇸🇬 Singapore @BZ
-      - SG 🇸🇬 Singapore @BZ 2
-      - SG 🇸🇬 Singapore @BZ 3
-      - SG 🇸🇬 Singapore @BZ 4
-      - SG 🇸🇬 Singapore @BZ 5
-      - SG 🇸🇬 Singapore @BZ 6
-      - SG 🇸🇬 Singapore @BZ 7
-      - SG 🇸🇬 Singapore @BZ 8
-      - SG 🇸🇬 Singapore @BZ 9
-      - SG 🇸🇬 Singapore @BZ 10
-      - SG 🇸🇬 Singapore @BZ 11
-      - SG 🇸🇬 Singapore @BZ 12
-      - SG 🇸🇬 Singapore @BZ 13
-      - SI 🇸🇮 Ljubljana @BZ
-      - TH 🇹🇭 @BZ
-      - TR 🇹🇷 @BZ
-      - TR 🇹🇷 Istanbul @BZ
-      - TW 🇹🇼 New Taipei @BZ
-      - UA 🇺🇦 @BZ
-      - UA 🇺🇦 @BZ 2
-      - UA 🇺🇦 @BZ 3
-      - UA 🇺🇦 Dnipropetrovsk @BZ
-      - UA 🇺🇦 Khmelnytskyy @BZ
-      - UA 🇺🇦 Kyiv @BZ
-      - UA 🇺🇦 Kyiv @BZ 2
-      - US 🇺🇸 @BZ
-      - US 🇺🇸 @BZ 2
-      - US 🇺🇸 Atlanta @BZ
-      - US 🇺🇸 Atlanta @BZ 2
-      - US 🇺🇸 Atlanta @BZ 3
-      - US 🇺🇸 Atlanta @BZ 4
-      - US 🇺🇸 Atlanta @BZ 5
-      - US 🇺🇸 Atlanta @BZ 6
-      - US 🇺🇸 Atlanta @BZ 7
-      - US 🇺🇸 Atlanta @BZ 8
-      - US 🇺🇸 Atlanta @BZ 9
-      - US 🇺🇸 Atlanta @BZ 10
-      - US 🇺🇸 Atlanta @BZ 11
-      - US 🇺🇸 Atlanta @BZ 12
-      - US 🇺🇸 Atlanta @BZ 13
-      - US 🇺🇸 Atlanta @BZ 14
-      - US 🇺🇸 Atlanta @BZ 15
-      - US 🇺🇸 Atlanta @BZ 16
-      - US 🇺🇸 Atlanta @BZ 17
-      - US 🇺🇸 Atlanta @BZ 18
-      - US 🇺🇸 Atlanta @BZ 19
-      - US 🇺🇸 Atlanta @BZ 20
-      - US 🇺🇸 Atlanta @BZ 21
-      - US 🇺🇸 Atlanta @BZ 22
-      - US 🇺🇸 Atlanta @BZ 23
-      - US 🇺🇸 Atlanta @BZ 24
-      - US 🇺🇸 Atlanta @BZ 25
-      - US 🇺🇸 Atlanta @BZ 26
-      - US 🇺🇸 Atlanta @BZ 27
-      - US 🇺🇸 Atlanta @BZ 28
-      - US 🇺🇸 Atlanta @BZ 29
-      - US 🇺🇸 Atlanta @BZ 30
-      - US 🇺🇸 Atlanta @BZ 31
-      - US 🇺🇸 Atlanta @BZ 32
-      - US 🇺🇸 Atlanta @BZ 33
-      - US 🇺🇸 Chicago @BZ
-      - US 🇺🇸 Chicago @BZ 2
-      - US 🇺🇸 Chicago @BZ 3
-      - US 🇺🇸 Chicago @BZ 4
-      - US 🇺🇸 Chicago @BZ 5
-      - US 🇺🇸 Chicago @BZ 6
-      - US 🇺🇸 Chicago @BZ 7
-      - US 🇺🇸 Chicago @BZ 8
-      - US 🇺🇸 Chicago @BZ 9
-      - US 🇺🇸 Chicago @BZ 10
-      - US 🇺🇸 Chicago @BZ 11
-      - US 🇺🇸 Chicago @BZ 12
-      - US 🇺🇸 Chicago @BZ 13
-      - US 🇺🇸 Dallas @BZ
-      - US 🇺🇸 Dallas @BZ 2
-      - US 🇺🇸 Dallas @BZ 3
-      - US 🇺🇸 Dallas @BZ 4
-      - US 🇺🇸 Dallas @BZ 5
-      - US 🇺🇸 Dallas @BZ 6
-      - US 🇺🇸 Los Angeles @BZ
-      - US 🇺🇸 Los Angeles @BZ 2
-      - US 🇺🇸 Los Angeles @BZ 3
-      - US 🇺🇸 Los Angeles @BZ 4
-      - US 🇺🇸 Memphis @BZ
-      - US 🇺🇸 Memphis @BZ 2
-      - US 🇺🇸 Miami @BZ
-      - US 🇺🇸 Miami @BZ 2
-      - US 🇺🇸 Miami @BZ 3
-      - US 🇺🇸 Miami @BZ 4
-      - US 🇺🇸 Newark @BZ
-      - US 🇺🇸 Newark @BZ 2
-      - US 🇺🇸 Newark @BZ 3
-      - US 🇺🇸 Newark @BZ 4
-      - US 🇺🇸 Reston @BZ
-      - US 🇺🇸 Reston @BZ 2
-      - US 🇺🇸 Reston @BZ 3
-      - US 🇺🇸 Santa Clara @BZ
-      - US 🇺🇸 Santa Clara @BZ 2
-      - US 🇺🇸 Santa Clara @BZ 3
-      - US 🇺🇸 Santa Clara @BZ 4
-      - US 🇺🇸 Seattle @BZ
-      - US 🇺🇸 Seattle @BZ 2
-      - US 🇺🇸 Seattle @BZ 3
-      - US 🇺🇸 Seattle @BZ 4
-      - US 🇺🇸 West New York @BZ
-      - VN 🇻🇳 @BZ
-      - ZA 🇿🇦 @BZ
-      - ZA 🇿🇦 @BZ 2
-      - ZA 🇿🇦 Johannesburg @BZ
+      - 🔥 AUTO(BEST PING)
+      - AE 🇦🇪 Sharjah @KURD_SERVER
+      - AU 🇦🇺 Sydney @KURD_SERVER
+      - AU 🇦🇺 Sydney @KURD_SERVER 2
+      - AU 🇦🇺 Sydney @KURD_SERVER 3
+      - AU 🇦🇺 Sydney @KURD_SERVER 4
+      - AU 🇦🇺 Sydney @KURD_SERVER 5
+      - AU 🇦🇺 Sydney @KURD_SERVER 6
+      - AU 🇦🇺 Sydney @KURD_SERVER 7
+      - AU 🇦🇺 Sydney @KURD_SERVER 8
+      - AU 🇦🇺 Sydney @KURD_SERVER 9
+      - AZ 🇦🇿 @KURD_SERVER
+      - BE 🇧🇪 Brussels @KURD_SERVER
+      - BG 🇧🇬 Sofia @KURD_SERVER
+      - BG 🇧🇬 Sofia @KURD_SERVER 2
+      - BG 🇧🇬 Sofia @KURD_SERVER 3
+      - BG 🇧🇬 Sofia @KURD_SERVER 4
+      - BG 🇧🇬 Sofia @KURD_SERVER 5
+      - BG 🇧🇬 Sofia @KURD_SERVER 6
+      - BG 🇧🇬 Sofia @KURD_SERVER 7
+      - BG 🇧🇬 Sofia @KURD_SERVER 8
+      - CA 🇨🇦 @KURD_SERVER
+      - CA 🇨🇦 @KURD_SERVER 2
+      - CA 🇨🇦 @KURD_SERVER 3
+      - CH 🇨🇭 @KURD_SERVER
+      - CH 🇨🇭 Zurich @KURD_SERVER
+      - CH 🇨🇭 Zurich @KURD_SERVER 2
+      - CH 🇨🇭 Zurich @KURD_SERVER 3
+      - CH 🇨🇭 Zurich @KURD_SERVER 4
+      - CH 🇨🇭 Zurich @KURD_SERVER 5
+      - CH 🇨🇭 Zurich @KURD_SERVER 6
+      - CH 🇨🇭 Zurich @KURD_SERVER 7
+      - CH 🇨🇭 Zurich @KURD_SERVER 8
+      - CN 🇨🇳 @KURD_SERVER
+      - CN 🇨🇳 @KURD_SERVER 2
+      - CN 🇨🇳 @KURD_SERVER 3
+      - CN 🇨🇳 @KURD_SERVER 4
+      - CN 🇨🇳 @KURD_SERVER 5
+      - CN 🇨🇳 @KURD_SERVER 6
+      - CY 🇨🇾 @KURD_SERVER
+      - CY 🇨🇾 @KURD_SERVER 2
+      - DE 🇩🇪 @KURD_SERVER
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 2
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 3
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 4
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 5
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 6
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 7
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 8
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 9
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 10
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 11
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 12
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 13
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 14
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 15
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 16
+      - FR 🇫🇷 @KURD_SERVER
+      - FR 🇫🇷 @KURD_SERVER 2
+      - FR 🇫🇷 @KURD_SERVER 3
+      - FR 🇫🇷 @KURD_SERVER 4
+      - GB 🇬🇧 @KURD_SERVER
+      - GB 🇬🇧 @KURD_SERVER 2
+      - GB 🇬🇧 London @KURD_SERVER
+      - GB 🇬🇧 London @KURD_SERVER 2
+      - GB 🇬🇧 London @KURD_SERVER 3
+      - GB 🇬🇧 Walthamstow @KURD_SERVER
+      - GR 🇬🇷 Thessaloniki @KURD_SERVER
+      - HK 🇭🇰 Central @KURD_SERVER
+      - HU 🇭🇺 Budapest @KURD_SERVER
+      - IL 🇮🇱 Haifa @KURD_SERVER
+      - IN 🇮🇳 Mumbai @KURD_SERVER
+      - IN 🇮🇳 Mumbai @KURD_SERVER 2
+      - IN 🇮🇳 Mumbai @KURD_SERVER 3
+      - IN 🇮🇳 Mumbai @KURD_SERVER 4
+      - IN 🇮🇳 Mumbai @KURD_SERVER 5
+      - IN 🇮🇳 Mumbai @KURD_SERVER 6
+      - IN 🇮🇳 Mumbai @KURD_SERVER 7
+      - IN 🇮🇳 Mumbai @KURD_SERVER 8
+      - IS 🇮🇸 @KURD_SERVER
+      - IS 🇮🇸 @KURD_SERVER 2
+      - IT 🇮🇹 Milan @KURD_SERVER
+      - JP 🇯🇵 Tokyo @KURD_SERVER
+      - JP 🇯🇵 Tokyo @KURD_SERVER 2
+      - JP 🇯🇵 Tokyo @KURD_SERVER 3
+      - JP 🇯🇵 Tokyo @KURD_SERVER 4
+      - JP 🇯🇵 Tokyo @KURD_SERVER 5
+      - JP 🇯🇵 Tokyo @KURD_SERVER 6
+      - JP 🇯🇵 Tokyo @KURD_SERVER 7
+      - KR 🇰🇷 Seoul @KURD_SERVER
+      - KR 🇰🇷 Seoul @KURD_SERVER 2
+      - KR 🇰🇷 Seoul @KURD_SERVER 3
+      - KR 🇰🇷 Seoul @KURD_SERVER 4
+      - KR 🇰🇷 Seoul @KURD_SERVER 5
+      - KR 🇰🇷 Seoul @KURD_SERVER 6
+      - KR 🇰🇷 Seoul @KURD_SERVER 7
+      - KR 🇰🇷 Seoul @KURD_SERVER 8
+      - KR 🇰🇷 Seoul @KURD_SERVER 9
+      - KR 🇰🇷 Seoul @KURD_SERVER 10
+      - KR 🇰🇷 Seoul @KURD_SERVER 11
+      - KR 🇰🇷 Seoul @KURD_SERVER 12
+      - KR 🇰🇷 Seoul @KURD_SERVER 13
+      - NL 🇳🇱 @KURD_SERVER
+      - NL 🇳🇱 @KURD_SERVER 2
+      - NL 🇳🇱 Amsterdam @KURD_SERVER
+      - NL 🇳🇱 Amsterdam @KURD_SERVER 2
+      - NZ 🇳🇿 Auckland @KURD_SERVER
+      - RS 🇷🇸 Belgrade @KURD_SERVER
+      - RU 🇷🇺 @KURD_SERVER
+      - RU 🇷🇺 @KURD_SERVER 2
+      - RU 🇷🇺 Moscow @KURD_SERVER
+      - RU 🇷🇺 Moscow @KURD_SERVER 2
+      - RU 🇷🇺 Moscow @KURD_SERVER 3
+      - RU 🇷🇺 Moscow @KURD_SERVER 4
+      - RU 🇷🇺 Moscow @KURD_SERVER 5
+      - RU 🇷🇺 St Petersburg @KURD_SERVER
+      - SE 🇸🇪 Stockholm @KURD_SERVER
+      - SE 🇸🇪 Stockholm @KURD_SERVER 2
+      - SE 🇸🇪 Stockholm @KURD_SERVER 3
+      - SE 🇸🇪 Stockholm @KURD_SERVER 4
+      - SG 🇸🇬 Singapore @KURD_SERVER
+      - SG 🇸🇬 Singapore @KURD_SERVER 2
+      - SI 🇸🇮 Ljubljana @KURD_SERVER
+      - SI 🇸🇮 Ljubljana @KURD_SERVER 2
+      - TH 🇹🇭 @KURD_SERVER
+      - TH 🇹🇭 @KURD_SERVER 2
+      - TR 🇹🇷 @KURD_SERVER
+      - TR 🇹🇷 @KURD_SERVER 2
+      - TW 🇹🇼 New Taipei @KURD_SERVER
+      - UA 🇺🇦 @KURD_SERVER
+      - UA 🇺🇦 @KURD_SERVER 2
+      - UA 🇺🇦 @KURD_SERVER 3
+      - UA 🇺🇦 Dnipropetrovsk @KURD_SERVER
+      - UA 🇺🇦 Khmelnytskyy @KURD_SERVER
+      - UA 🇺🇦 Khmelnytskyy @KURD_SERVER 2
+      - UA 🇺🇦 Kyiv @KURD_SERVER
+      - UA 🇺🇦 Kyiv @KURD_SERVER 2
+      - US 🇺🇸 @KURD_SERVER
+      - US 🇺🇸 Atlanta @KURD_SERVER
+      - US 🇺🇸 Atlanta @KURD_SERVER 2
+      - US 🇺🇸 Atlanta @KURD_SERVER 3
+      - US 🇺🇸 Atlanta @KURD_SERVER 4
+      - US 🇺🇸 Chicago @KURD_SERVER
+      - US 🇺🇸 Chicago @KURD_SERVER 2
+      - US 🇺🇸 Chicago @KURD_SERVER 3
+      - US 🇺🇸 Chicago @KURD_SERVER 4
+      - US 🇺🇸 Dallas @KURD_SERVER
+      - US 🇺🇸 Dallas @KURD_SERVER 2
+      - US 🇺🇸 Dallas @KURD_SERVER 3
+      - US 🇺🇸 Dallas @KURD_SERVER 4
+      - US 🇺🇸 Dallas @KURD_SERVER 5
+      - US 🇺🇸 Dallas @KURD_SERVER 6
+      - US 🇺🇸 Dallas @KURD_SERVER 7
+      - US 🇺🇸 Los Angeles @KURD_SERVER
+      - US 🇺🇸 Los Angeles @KURD_SERVER 2
+      - US 🇺🇸 Los Angeles @KURD_SERVER 3
+      - US 🇺🇸 Los Angeles @KURD_SERVER 4
+      - US 🇺🇸 Los Angeles @KURD_SERVER 5
+      - US 🇺🇸 Los Angeles @KURD_SERVER 6
+      - US 🇺🇸 Los Angeles @KURD_SERVER 7
+      - US 🇺🇸 Los Angeles @KURD_SERVER 8
+      - US 🇺🇸 Memphis @KURD_SERVER
+      - US 🇺🇸 Miami @KURD_SERVER
+      - US 🇺🇸 Newark @KURD_SERVER
+      - US 🇺🇸 Newark @KURD_SERVER 2
+      - US 🇺🇸 Newark @KURD_SERVER 3
+      - US 🇺🇸 Newark @KURD_SERVER 4
+      - US 🇺🇸 Newark @KURD_SERVER 5
+      - US 🇺🇸 Newark @KURD_SERVER 6
+      - US 🇺🇸 Philadelphia @KURD_SERVER
+      - US 🇺🇸 Reston @KURD_SERVER
+      - US 🇺🇸 Reston @KURD_SERVER 2
+      - US 🇺🇸 Reston @KURD_SERVER 3
+      - US 🇺🇸 Reston @KURD_SERVER 4
+      - US 🇺🇸 Reston @KURD_SERVER 5
+      - US 🇺🇸 Reston @KURD_SERVER 6
+      - US 🇺🇸 Reston @KURD_SERVER 7
+      - US 🇺🇸 Santa Clara @KURD_SERVER
+      - US 🇺🇸 Santa Clara @KURD_SERVER 2
+      - US 🇺🇸 Santa Clara @KURD_SERVER 3
+      - US 🇺🇸 Santa Clara @KURD_SERVER 4
+      - US 🇺🇸 Santa Clara @KURD_SERVER 5
+      - US 🇺🇸 Santa Clara @KURD_SERVER 6
+      - US 🇺🇸 Santa Clara @KURD_SERVER 7
+      - US 🇺🇸 Santa Clara @KURD_SERVER 8
+      - US 🇺🇸 Santa Clara @KURD_SERVER 9
+      - US 🇺🇸 Seattle @KURD_SERVER
+      - US 🇺🇸 Seattle @KURD_SERVER 2
+      - US 🇺🇸 Seattle @KURD_SERVER 3
+      - US 🇺🇸 Seattle @KURD_SERVER 4
+      - US 🇺🇸 Seattle @KURD_SERVER 5
+      - US 🇺🇸 Seattle @KURD_SERVER 6
+      - US 🇺🇸 Seattle @KURD_SERVER 7
+      - US 🇺🇸 Seattle @KURD_SERVER 8
+      - US 🇺🇸 Seattle @KURD_SERVER 9
+      - US 🇺🇸 Seattle @KURD_SERVER 10
+      - US 🇺🇸 Seattle @KURD_SERVER 11
+      - VN 🇻🇳 @KURD_SERVER
+      - ZA 🇿🇦 @KURD_SERVER
+      - ZA 🇿🇦 @KURD_SERVER 2
 
-  - name: 🔥 Auto(Best ping)
+  - name: 🔥 AUTO(BEST PING)
     type: url-test
     url: http://connectivitycheck.gstatic.com/generate_204
     interval: 600
     proxies:
-      - AE 🇦🇪 Dubai @BZ
-      - AE 🇦🇪 Sharjah @BZ
-      - AE 🇦🇪 Sharjah @BZ 2
-      - AU 🇦🇺 Sydney @BZ
-      - AU 🇦🇺 Sydney @BZ 2
-      - AU 🇦🇺 Sydney @BZ 3
-      - AU 🇦🇺 Sydney @BZ 4
-      - AZ 🇦🇿 @BZ
-      - BA 🇧🇦 Novi Travnik @BZ
-      - BA 🇧🇦 Novi Travnik @BZ 2
-      - BA 🇧🇦 Novi Travnik @BZ 3
-      - BA 🇧🇦 Novi Travnik @BZ 4
-      - BA 🇧🇦 Novi Travnik @BZ 5
-      - BA 🇧🇦 Novi Travnik @BZ 6
-      - BA 🇧🇦 Novi Travnik @BZ 7
-      - BA 🇧🇦 Novi Travnik @BZ 8
-      - BA 🇧🇦 Novi Travnik @BZ 9
-      - BE 🇧🇪 Brussels @BZ
-      - CA 🇨🇦 Toronto @BZ
-      - CA 🇨🇦 Toronto @BZ 2
-      - CA 🇨🇦 Toronto @BZ 3
-      - CA 🇨🇦 Toronto @BZ 4
-      - CA 🇨🇦 Toronto @BZ 5
-      - CA 🇨🇦 Toronto @BZ 6
-      - CA 🇨🇦 Toronto @BZ 7
-      - CH 🇨🇭 Zurich @BZ
-      - CN 🇨🇳 @BZ
-      - CY 🇨🇾 @BZ
-      - DE 🇩🇪 @BZ
-      - DE 🇩🇪 @BZ 2
-      - DE 🇩🇪 @BZ 3
-      - DE 🇩🇪 Düsseldorf @BZ
-      - DE 🇩🇪 Frankfurt am Main @BZ
-      - DE 🇩🇪 Frankfurt am Main @BZ 2
-      - DE 🇩🇪 Frankfurt am Main @BZ 3
-      - DE 🇩🇪 Frankfurt am Main @BZ 4
-      - ES 🇪🇸 Madrid @BZ
-      - FR 🇫🇷 @BZ
-      - FR 🇫🇷 @BZ 2
-      - FR 🇫🇷 @BZ 3
-      - FR 🇫🇷 Vélizy-Villacoublay @BZ
-      - GB 🇬🇧 @BZ
-      - GB 🇬🇧 @BZ 2
-      - GB 🇬🇧 @BZ 3
-      - GB 🇬🇧 London @BZ
-      - GB 🇬🇧 London @BZ 2
-      - GB 🇬🇧 London @BZ 3
-      - GR 🇬🇷 Thessaloniki @BZ
-      - HK 🇭🇰 Central @BZ
-      - HK 🇭🇰 Central @BZ 2
-      - ID 🇮🇩 @BZ
-      - IL 🇮🇱 Jerusalem @BZ
-      - IL 🇮🇱 Jerusalem @BZ 2
-      - IM 🇮🇲 Douglas @BZ
-      - IN 🇮🇳 Mumbai @BZ
-      - IN 🇮🇳 Mumbai @BZ 2
-      - IN 🇮🇳 Mumbai @BZ 3
-      - IS 🇮🇸 @BZ
-      - IT 🇮🇹 @BZ
-      - IT 🇮🇹 @BZ 2
-      - IT 🇮🇹 Milan @BZ
-      - IT 🇮🇹 Milan @BZ 2
-      - JP 🇯🇵 Tokyo @BZ
-      - JP 🇯🇵 Tokyo @BZ 2
-      - JP 🇯🇵 Tokyo @BZ 3
-      - JP 🇯🇵 Tokyo @BZ 4
-      - KR 🇰🇷 Seoul @BZ
-      - KR 🇰🇷 Seoul @BZ 2
-      - KR 🇰🇷 Seoul @BZ 3
-      - KR 🇰🇷 Seoul @BZ 4
-      - LU 🇱🇺 Luxembourg @BZ
-      - MD 🇲🇩 Chisinau @BZ
-      - NL 🇳🇱 @BZ
-      - NL 🇳🇱 @BZ 2
-      - NL 🇳🇱 @BZ 3
-      - NL 🇳🇱 @BZ 4
-      - NL 🇳🇱 @BZ 5
-      - NL 🇳🇱 Amsterdam @BZ
-      - NL 🇳🇱 Amsterdam @BZ 2
-      - NL 🇳🇱 Amsterdam @BZ 3
-      - PL 🇵🇱 @BZ
-      - PL 🇵🇱 @BZ 2
-      - PL 🇵🇱 Warsaw @BZ
-      - RO 🇷🇴 @BZ
-      - RU 🇷🇺 @BZ
-      - RU 🇷🇺 Moscow @BZ
-      - RU 🇷🇺 Moscow @BZ 2
-      - RU 🇷🇺 Moscow @BZ 3
-      - RU 🇷🇺 Moscow @BZ 4
-      - SE 🇸🇪 Stockholm @BZ
-      - SE 🇸🇪 Stockholm @BZ 2
-      - SG 🇸🇬 Singapore @BZ
-      - SG 🇸🇬 Singapore @BZ 2
-      - SG 🇸🇬 Singapore @BZ 3
-      - SG 🇸🇬 Singapore @BZ 4
-      - SG 🇸🇬 Singapore @BZ 5
-      - SG 🇸🇬 Singapore @BZ 6
-      - SG 🇸🇬 Singapore @BZ 7
-      - SG 🇸🇬 Singapore @BZ 8
-      - SG 🇸🇬 Singapore @BZ 9
-      - SG 🇸🇬 Singapore @BZ 10
-      - SG 🇸🇬 Singapore @BZ 11
-      - SG 🇸🇬 Singapore @BZ 12
-      - SG 🇸🇬 Singapore @BZ 13
-      - SI 🇸🇮 Ljubljana @BZ
-      - TH 🇹🇭 @BZ
-      - TR 🇹🇷 @BZ
-      - TR 🇹🇷 Istanbul @BZ
-      - TW 🇹🇼 New Taipei @BZ
-      - UA 🇺🇦 @BZ
-      - UA 🇺🇦 @BZ 2
-      - UA 🇺🇦 @BZ 3
-      - UA 🇺🇦 Dnipropetrovsk @BZ
-      - UA 🇺🇦 Khmelnytskyy @BZ
-      - UA 🇺🇦 Kyiv @BZ
-      - UA 🇺🇦 Kyiv @BZ 2
-      - US 🇺🇸 @BZ
-      - US 🇺🇸 @BZ 2
-      - US 🇺🇸 Atlanta @BZ
-      - US 🇺🇸 Atlanta @BZ 2
-      - US 🇺🇸 Atlanta @BZ 3
-      - US 🇺🇸 Atlanta @BZ 4
-      - US 🇺🇸 Atlanta @BZ 5
-      - US 🇺🇸 Atlanta @BZ 6
-      - US 🇺🇸 Atlanta @BZ 7
-      - US 🇺🇸 Atlanta @BZ 8
-      - US 🇺🇸 Atlanta @BZ 9
-      - US 🇺🇸 Atlanta @BZ 10
-      - US 🇺🇸 Atlanta @BZ 11
-      - US 🇺🇸 Atlanta @BZ 12
-      - US 🇺🇸 Atlanta @BZ 13
-      - US 🇺🇸 Atlanta @BZ 14
-      - US 🇺🇸 Atlanta @BZ 15
-      - US 🇺🇸 Atlanta @BZ 16
-      - US 🇺🇸 Atlanta @BZ 17
-      - US 🇺🇸 Atlanta @BZ 18
-      - US 🇺🇸 Atlanta @BZ 19
-      - US 🇺🇸 Atlanta @BZ 20
-      - US 🇺🇸 Atlanta @BZ 21
-      - US 🇺🇸 Atlanta @BZ 22
-      - US 🇺🇸 Atlanta @BZ 23
-      - US 🇺🇸 Atlanta @BZ 24
-      - US 🇺🇸 Atlanta @BZ 25
-      - US 🇺🇸 Atlanta @BZ 26
-      - US 🇺🇸 Atlanta @BZ 27
-      - US 🇺🇸 Atlanta @BZ 28
-      - US 🇺🇸 Atlanta @BZ 29
-      - US 🇺🇸 Atlanta @BZ 30
-      - US 🇺🇸 Atlanta @BZ 31
-      - US 🇺🇸 Atlanta @BZ 32
-      - US 🇺🇸 Atlanta @BZ 33
-      - US 🇺🇸 Chicago @BZ
-      - US 🇺🇸 Chicago @BZ 2
-      - US 🇺🇸 Chicago @BZ 3
-      - US 🇺🇸 Chicago @BZ 4
-      - US 🇺🇸 Chicago @BZ 5
-      - US 🇺🇸 Chicago @BZ 6
-      - US 🇺🇸 Chicago @BZ 7
-      - US 🇺🇸 Chicago @BZ 8
-      - US 🇺🇸 Chicago @BZ 9
-      - US 🇺🇸 Chicago @BZ 10
-      - US 🇺🇸 Chicago @BZ 11
-      - US 🇺🇸 Chicago @BZ 12
-      - US 🇺🇸 Chicago @BZ 13
-      - US 🇺🇸 Dallas @BZ
-      - US 🇺🇸 Dallas @BZ 2
-      - US 🇺🇸 Dallas @BZ 3
-      - US 🇺🇸 Dallas @BZ 4
-      - US 🇺🇸 Dallas @BZ 5
-      - US 🇺🇸 Dallas @BZ 6
-      - US 🇺🇸 Los Angeles @BZ
-      - US 🇺🇸 Los Angeles @BZ 2
-      - US 🇺🇸 Los Angeles @BZ 3
-      - US 🇺🇸 Los Angeles @BZ 4
-      - US 🇺🇸 Memphis @BZ
-      - US 🇺🇸 Memphis @BZ 2
-      - US 🇺🇸 Miami @BZ
-      - US 🇺🇸 Miami @BZ 2
-      - US 🇺🇸 Miami @BZ 3
-      - US 🇺🇸 Miami @BZ 4
-      - US 🇺🇸 Newark @BZ
-      - US 🇺🇸 Newark @BZ 2
-      - US 🇺🇸 Newark @BZ 3
-      - US 🇺🇸 Newark @BZ 4
-      - US 🇺🇸 Reston @BZ
-      - US 🇺🇸 Reston @BZ 2
-      - US 🇺🇸 Reston @BZ 3
-      - US 🇺🇸 Santa Clara @BZ
-      - US 🇺🇸 Santa Clara @BZ 2
-      - US 🇺🇸 Santa Clara @BZ 3
-      - US 🇺🇸 Santa Clara @BZ 4
-      - US 🇺🇸 Seattle @BZ
-      - US 🇺🇸 Seattle @BZ 2
-      - US 🇺🇸 Seattle @BZ 3
-      - US 🇺🇸 Seattle @BZ 4
-      - US 🇺🇸 West New York @BZ
-      - VN 🇻🇳 @BZ
-      - ZA 🇿🇦 @BZ
-      - ZA 🇿🇦 @BZ 2
-      - ZA 🇿🇦 Johannesburg @BZ
+      - AE 🇦🇪 Sharjah @KURD_SERVER
+      - AU 🇦🇺 Sydney @KURD_SERVER
+      - AU 🇦🇺 Sydney @KURD_SERVER 2
+      - AU 🇦🇺 Sydney @KURD_SERVER 3
+      - AU 🇦🇺 Sydney @KURD_SERVER 4
+      - AU 🇦🇺 Sydney @KURD_SERVER 5
+      - AU 🇦🇺 Sydney @KURD_SERVER 6
+      - AU 🇦🇺 Sydney @KURD_SERVER 7
+      - AU 🇦🇺 Sydney @KURD_SERVER 8
+      - AU 🇦🇺 Sydney @KURD_SERVER 9
+      - AZ 🇦🇿 @KURD_SERVER
+      - BE 🇧🇪 Brussels @KURD_SERVER
+      - BG 🇧🇬 Sofia @KURD_SERVER
+      - BG 🇧🇬 Sofia @KURD_SERVER 2
+      - BG 🇧🇬 Sofia @KURD_SERVER 3
+      - BG 🇧🇬 Sofia @KURD_SERVER 4
+      - BG 🇧🇬 Sofia @KURD_SERVER 5
+      - BG 🇧🇬 Sofia @KURD_SERVER 6
+      - BG 🇧🇬 Sofia @KURD_SERVER 7
+      - BG 🇧🇬 Sofia @KURD_SERVER 8
+      - CA 🇨🇦 @KURD_SERVER
+      - CA 🇨🇦 @KURD_SERVER 2
+      - CA 🇨🇦 @KURD_SERVER 3
+      - CH 🇨🇭 @KURD_SERVER
+      - CH 🇨🇭 Zurich @KURD_SERVER
+      - CH 🇨🇭 Zurich @KURD_SERVER 2
+      - CH 🇨🇭 Zurich @KURD_SERVER 3
+      - CH 🇨🇭 Zurich @KURD_SERVER 4
+      - CH 🇨🇭 Zurich @KURD_SERVER 5
+      - CH 🇨🇭 Zurich @KURD_SERVER 6
+      - CH 🇨🇭 Zurich @KURD_SERVER 7
+      - CH 🇨🇭 Zurich @KURD_SERVER 8
+      - CN 🇨🇳 @KURD_SERVER
+      - CN 🇨🇳 @KURD_SERVER 2
+      - CN 🇨🇳 @KURD_SERVER 3
+      - CN 🇨🇳 @KURD_SERVER 4
+      - CN 🇨🇳 @KURD_SERVER 5
+      - CN 🇨🇳 @KURD_SERVER 6
+      - CY 🇨🇾 @KURD_SERVER
+      - CY 🇨🇾 @KURD_SERVER 2
+      - DE 🇩🇪 @KURD_SERVER
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 2
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 3
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 4
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 5
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 6
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 7
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 8
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 9
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 10
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 11
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 12
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 13
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 14
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 15
+      - DE 🇩🇪 Frankfurt am Main @KURD_SERVER 16
+      - FR 🇫🇷 @KURD_SERVER
+      - FR 🇫🇷 @KURD_SERVER 2
+      - FR 🇫🇷 @KURD_SERVER 3
+      - FR 🇫🇷 @KURD_SERVER 4
+      - GB 🇬🇧 @KURD_SERVER
+      - GB 🇬🇧 @KURD_SERVER 2
+      - GB 🇬🇧 London @KURD_SERVER
+      - GB 🇬🇧 London @KURD_SERVER 2
+      - GB 🇬🇧 London @KURD_SERVER 3
+      - GB 🇬🇧 Walthamstow @KURD_SERVER
+      - GR 🇬🇷 Thessaloniki @KURD_SERVER
+      - HK 🇭🇰 Central @KURD_SERVER
+      - HU 🇭🇺 Budapest @KURD_SERVER
+      - IL 🇮🇱 Haifa @KURD_SERVER
+      - IN 🇮🇳 Mumbai @KURD_SERVER
+      - IN 🇮🇳 Mumbai @KURD_SERVER 2
+      - IN 🇮🇳 Mumbai @KURD_SERVER 3
+      - IN 🇮🇳 Mumbai @KURD_SERVER 4
+      - IN 🇮🇳 Mumbai @KURD_SERVER 5
+      - IN 🇮🇳 Mumbai @KURD_SERVER 6
+      - IN 🇮🇳 Mumbai @KURD_SERVER 7
+      - IN 🇮🇳 Mumbai @KURD_SERVER 8
+      - IS 🇮🇸 @KURD_SERVER
+      - IS 🇮🇸 @KURD_SERVER 2
+      - IT 🇮🇹 Milan @KURD_SERVER
+      - JP 🇯🇵 Tokyo @KURD_SERVER
+      - JP 🇯🇵 Tokyo @KURD_SERVER 2
+      - JP 🇯🇵 Tokyo @KURD_SERVER 3
+      - JP 🇯🇵 Tokyo @KURD_SERVER 4
+      - JP 🇯🇵 Tokyo @KURD_SERVER 5
+      - JP 🇯🇵 Tokyo @KURD_SERVER 6
+      - JP 🇯🇵 Tokyo @KURD_SERVER 7
+      - KR 🇰🇷 Seoul @KURD_SERVER
+      - KR 🇰🇷 Seoul @KURD_SERVER 2
+      - KR 🇰🇷 Seoul @KURD_SERVER 3
+      - KR 🇰🇷 Seoul @KURD_SERVER 4
+      - KR 🇰🇷 Seoul @KURD_SERVER 5
+      - KR 🇰🇷 Seoul @KURD_SERVER 6
+      - KR 🇰🇷 Seoul @KURD_SERVER 7
+      - KR 🇰🇷 Seoul @KURD_SERVER 8
+      - KR 🇰🇷 Seoul @KURD_SERVER 9
+      - KR 🇰🇷 Seoul @KURD_SERVER 10
+      - KR 🇰🇷 Seoul @KURD_SERVER 11
+      - KR 🇰🇷 Seoul @KURD_SERVER 12
+      - KR 🇰🇷 Seoul @KURD_SERVER 13
+      - NL 🇳🇱 @KURD_SERVER
+      - NL 🇳🇱 @KURD_SERVER 2
+      - NL 🇳🇱 Amsterdam @KURD_SERVER
+      - NL 🇳🇱 Amsterdam @KURD_SERVER 2
+      - NZ 🇳🇿 Auckland @KURD_SERVER
+      - RS 🇷🇸 Belgrade @KURD_SERVER
+      - RU 🇷🇺 @KURD_SERVER
+      - RU 🇷🇺 @KURD_SERVER 2
+      - RU 🇷🇺 Moscow @KURD_SERVER
+      - RU 🇷🇺 Moscow @KURD_SERVER 2
+      - RU 🇷🇺 Moscow @KURD_SERVER 3
+      - RU 🇷🇺 Moscow @KURD_SERVER 4
+      - RU 🇷🇺 Moscow @KURD_SERVER 5
+      - RU 🇷🇺 St Petersburg @KURD_SERVER
+      - SE 🇸🇪 Stockholm @KURD_SERVER
+      - SE 🇸🇪 Stockholm @KURD_SERVER 2
+      - SE 🇸🇪 Stockholm @KURD_SERVER 3
+      - SE 🇸🇪 Stockholm @KURD_SERVER 4
+      - SG 🇸🇬 Singapore @KURD_SERVER
+      - SG 🇸🇬 Singapore @KURD_SERVER 2
+      - SI 🇸🇮 Ljubljana @KURD_SERVER
+      - SI 🇸🇮 Ljubljana @KURD_SERVER 2
+      - TH 🇹🇭 @KURD_SERVER
+      - TH 🇹🇭 @KURD_SERVER 2
+      - TR 🇹🇷 @KURD_SERVER
+      - TR 🇹🇷 @KURD_SERVER 2
+      - TW 🇹🇼 New Taipei @KURD_SERVER
+      - UA 🇺🇦 @KURD_SERVER
+      - UA 🇺🇦 @KURD_SERVER 2
+      - UA 🇺🇦 @KURD_SERVER 3
+      - UA 🇺🇦 Dnipropetrovsk @KURD_SERVER
+      - UA 🇺🇦 Khmelnytskyy @KURD_SERVER
+      - UA 🇺🇦 Khmelnytskyy @KURD_SERVER 2
+      - UA 🇺🇦 Kyiv @KURD_SERVER
+      - UA 🇺🇦 Kyiv @KURD_SERVER 2
+      - US 🇺🇸 @KURD_SERVER
+      - US 🇺🇸 Atlanta @KURD_SERVER
+      - US 🇺🇸 Atlanta @KURD_SERVER 2
+      - US 🇺🇸 Atlanta @KURD_SERVER 3
+      - US 🇺🇸 Atlanta @KURD_SERVER 4
+      - US 🇺🇸 Chicago @KURD_SERVER
+      - US 🇺🇸 Chicago @KURD_SERVER 2
+      - US 🇺🇸 Chicago @KURD_SERVER 3
+      - US 🇺🇸 Chicago @KURD_SERVER 4
+      - US 🇺🇸 Dallas @KURD_SERVER
+      - US 🇺🇸 Dallas @KURD_SERVER 2
+      - US 🇺🇸 Dallas @KURD_SERVER 3
+      - US 🇺🇸 Dallas @KURD_SERVER 4
+      - US 🇺🇸 Dallas @KURD_SERVER 5
+      - US 🇺🇸 Dallas @KURD_SERVER 6
+      - US 🇺🇸 Dallas @KURD_SERVER 7
+      - US 🇺🇸 Los Angeles @KURD_SERVER
+      - US 🇺🇸 Los Angeles @KURD_SERVER 2
+      - US 🇺🇸 Los Angeles @KURD_SERVER 3
+      - US 🇺🇸 Los Angeles @KURD_SERVER 4
+      - US 🇺🇸 Los Angeles @KURD_SERVER 5
+      - US 🇺🇸 Los Angeles @KURD_SERVER 6
+      - US 🇺🇸 Los Angeles @KURD_SERVER 7
+      - US 🇺🇸 Los Angeles @KURD_SERVER 8
+      - US 🇺🇸 Memphis @KURD_SERVER
+      - US 🇺🇸 Miami @KURD_SERVER
+      - US 🇺🇸 Newark @KURD_SERVER
+      - US 🇺🇸 Newark @KURD_SERVER 2
+      - US 🇺🇸 Newark @KURD_SERVER 3
+      - US 🇺🇸 Newark @KURD_SERVER 4
+      - US 🇺🇸 Newark @KURD_SERVER 5
+      - US 🇺🇸 Newark @KURD_SERVER 6
+      - US 🇺🇸 Philadelphia @KURD_SERVER
+      - US 🇺🇸 Reston @KURD_SERVER
+      - US 🇺🇸 Reston @KURD_SERVER 2
+      - US 🇺🇸 Reston @KURD_SERVER 3
+      - US 🇺🇸 Reston @KURD_SERVER 4
+      - US 🇺🇸 Reston @KURD_SERVER 5
+      - US 🇺🇸 Reston @KURD_SERVER 6
+      - US 🇺🇸 Reston @KURD_SERVER 7
+      - US 🇺🇸 Santa Clara @KURD_SERVER
+      - US 🇺🇸 Santa Clara @KURD_SERVER 2
+      - US 🇺🇸 Santa Clara @KURD_SERVER 3
+      - US 🇺🇸 Santa Clara @KURD_SERVER 4
+      - US 🇺🇸 Santa Clara @KURD_SERVER 5
+      - US 🇺🇸 Santa Clara @KURD_SERVER 6
+      - US 🇺🇸 Santa Clara @KURD_SERVER 7
+      - US 🇺🇸 Santa Clara @KURD_SERVER 8
+      - US 🇺🇸 Santa Clara @KURD_SERVER 9
+      - US 🇺🇸 Seattle @KURD_SERVER
+      - US 🇺🇸 Seattle @KURD_SERVER 2
+      - US 🇺🇸 Seattle @KURD_SERVER 3
+      - US 🇺🇸 Seattle @KURD_SERVER 4
+      - US 🇺🇸 Seattle @KURD_SERVER 5
+      - US 🇺🇸 Seattle @KURD_SERVER 6
+      - US 🇺🇸 Seattle @KURD_SERVER 7
+      - US 🇺🇸 Seattle @KURD_SERVER 8
+      - US 🇺🇸 Seattle @KURD_SERVER 9
+      - US 🇺🇸 Seattle @KURD_SERVER 10
+      - US 🇺🇸 Seattle @KURD_SERVER 11
+      - VN 🇻🇳 @KURD_SERVER
+      - ZA 🇿🇦 @KURD_SERVER
+      - ZA 🇿🇦 @KURD_SERVER 2
 
   - name: ⛔Direct
     type: select
@@ -6101,4 +6100,4 @@ rules:
  - DOMAIN-SUFFIX,js.foxpush.com,⛔BLOCK
  - DOMAIN-SUFFIX,pushe.co,⛔BLOCK
 
- - MATCH,🔰 All Proxies,🔥 Auto(Best ping)
+ - MATCH,🔰 All Proxies,🔥 AUTO(BEST PING)
