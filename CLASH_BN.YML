@@ -1,0 +1,894 @@
+mixed-port: 7890
+allow-lan: true
+mode: Rule
+log-level: info
+
+proxies:
+  - {name: ae ðŸ‡¦ðŸ‡ª..@KURD, server: 109.169.72.249, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD, server: 185.99.3.102, port: 48938, type: ss, cipher: aes-256-gcm, password: "4ejJ8n5ddLuYDUHGXd%%%%%%%%%\x07G&S'Vd", udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 2, server: 185.99.3.102, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 3, server: 109.169.72.249, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 4, server: 134.195.196.231, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 5, server: 134.195.196.231, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 6, server: 196.247.59.156, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 7, server: 134.195.196.231, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 8, server: 93.186.201.124, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 9, server: 93.186.201.124, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 10, server: 93.186.201.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 11, server: 93.186.201.124, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 12, server: 193.108.118.36, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 13, server: 93.186.201.124, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 14, server: 93.186.201.124, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 15, server: 93.186.201.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 16, server: 93.186.201.158, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 17, server: 93.186.201.158, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 18, server: 93.186.201.158, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 19, server: 93.186.201.158, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 20, server: 93.186.201.158, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 21, server: 93.186.201.158, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 22, server: 85.114.138.92, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 23, server: 193.108.117.75, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 24, server: 193.108.118.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 25, server: 193.108.118.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 26, server: 193.108.118.79, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 27, server: 167.86.82.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1z7k5IMlPsvk, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 28, server: 193.108.118.36, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 29, server: 193.108.117.75, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 30, server: 193.108.118.34, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 31, server: 37.61.223.23, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 32, server: 193.108.117.75, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 33, server: 93.186.201.124, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 34, server: 93.186.201.124, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 35, server: 145.239.1.100, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 36, server: 145.239.1.100, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 37, server: 145.239.1.100, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 38, server: 145.239.1.100, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 39, server: 163.172.110.153, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 40, server: 145.239.1.100, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 41, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 42, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 43, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 44, server: 145.239.1.100, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 45, server: 145.239.1.100, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 46, server: 145.239.1.100, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 47, server: 62.210.113.98, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 48, server: 145.239.1.100, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ba ðŸ‡§ðŸ‡¦..@KURD 49, server: 145.239.1.100, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: be ðŸ‡§ðŸ‡ª..@KURD, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: be ðŸ‡§ðŸ‡ª..@KURD 2, server: 196.196.156.122, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD, server: 134.195.196.110, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 2, server: 72.140.224.195, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 3, server: 134.195.196.60, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 4, server: 134.195.196.200, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 5, server: 134.195.196.170, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 6, server: 198.57.27.218, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 7, server: 134.195.196.128, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 8, server: 198.57.27.247, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 9, server: 72.140.224.195, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 10, server: 134.195.196.221, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 11, server: 134.195.196.227, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 12, server: 134.195.196.150, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 13, server: 51.161.118.38, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 14, server: 134.195.196.110, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 15, server: 72.140.224.197, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 16, server: 134.195.196.227, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 17, server: 134.195.196.110, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 18, server: 134.195.196.170, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 19, server: 134.195.196.230, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 20, server: 134.195.196.155, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 21, server: 134.195.196.128, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 22, server: 134.195.196.168, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 23, server: 134.195.196.168, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 24, server: 198.57.27.218, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 25, server: 72.140.224.195, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 26, server: 198.57.27.218, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 27, server: 134.195.196.68, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 28, server: 196.247.59.156, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ca ðŸ‡¨ðŸ‡¦..@KURD 29, server: 134.195.196.149, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD, server: 93.186.201.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 2, server: 93.186.201.124, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 3, server: 193.176.86.190, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 4, server: 193.108.118.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 5, server: 193.108.117.75, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 6, server: 37.61.223.23, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 7, server: 193.108.118.34, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 8, server: 85.114.138.92, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 9, server: 193.108.118.36, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 10, server: 193.108.117.24, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 11, server: 193.108.118.36, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 12, server: 93.186.201.158, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 13, server: 93.186.201.158, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 14, server: 193.176.86.190, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 15, server: 193.176.86.190, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 16, server: 93.186.201.124, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 17, server: 193.108.118.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 18, server: 167.86.82.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1z7k5IMlPsvk, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 19, server: 193.108.118.36, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 20, server: 193.176.86.190, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 21, server: 93.186.201.158, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 22, server: 93.186.201.158, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 23, server: 93.186.201.158, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 24, server: 93.186.201.158, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 25, server: 193.108.118.79, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 26, server: 193.108.118.36, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 27, server: 93.186.201.124, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 28, server: 93.186.201.124, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 29, server: 193.108.118.79, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 30, server: 145.239.1.100, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 31, server: 193.108.118.79, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 32, server: 193.108.117.75, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 33, server: 93.186.201.124, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 34, server: 93.186.201.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 35, server: 93.186.201.124, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 36, server: 193.108.118.36, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 37, server: 193.108.117.75, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 38, server: 93.186.201.124, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: de ðŸ‡©ðŸ‡ª..@KURD 39, server: 193.108.117.24, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD, server: 54.38.72.170, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 2, server: 145.239.1.100, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 3, server: 145.239.1.100, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 4, server: 145.239.1.100, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 5, server: 163.172.110.153, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 6, server: 145.239.1.100, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 7, server: 54.38.72.170, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 8, server: 188.165.32.235, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 9, server: 149.202.82.172, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 10, server: 188.165.32.235, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 11, server: 145.239.1.100, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 12, server: 149.202.82.172, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 13, server: 145.239.1.100, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 14, server: 188.165.32.235, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 15, server: 163.172.110.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 16, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 17, server: 145.239.1.100, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 18, server: 145.239.1.100, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 19, server: 54.38.72.170, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 20, server: 54.38.72.170, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 21, server: 145.239.1.100, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 22, server: 145.239.1.100, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 23, server: 145.239.1.100, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 24, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 25, server: 145.239.1.100, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 26, server: 145.239.1.100, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 27, server: 145.239.1.100, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 28, server: 145.239.1.100, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 29, server: 145.239.1.100, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 30, server: 62.210.113.98, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: fr ðŸ‡«ðŸ‡·..@KURD 31, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: it ðŸ‡®ðŸ‡¹..@KURD, server: 84.33.193.79, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+  - {name: it ðŸ‡®ðŸ‡¹..@KURD 2, server: 158.58.173.240, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: it ðŸ‡®ðŸ‡¹..@KURD 3, server: 158.58.173.240, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD, server: 45.66.134.176, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 2, server: 185.160.24.217, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 3, server: 89.31.126.150, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 4, server: 45.66.134.176, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 5, server: 45.66.134.176, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 6, server: 185.160.24.217, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 7, server: 45.66.134.176, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 8, server: 45.66.134.176, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 9, server: 45.66.134.176, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 10, server: 185.160.24.217, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 11, server: 45.66.134.176, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 12, server: 45.66.134.176, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 13, server: 89.31.126.150, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 14, server: 45.66.134.176, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: jp ðŸ‡¯ðŸ‡µ..@KURD 15, server: 45.66.134.176, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: nl ðŸ‡³ðŸ‡±..@KURD, server: 85.208.108.18, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: nl ðŸ‡³ðŸ‡±..@KURD 2, server: 85.208.108.66, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: nl ðŸ‡³ðŸ‡±..@KURD 3, server: 85.208.108.66, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: nl ðŸ‡³ðŸ‡±..@KURD 4, server: 37.218.247.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YbOE6O1uwbUv, udp: true}
+  - {name: nl ðŸ‡³ðŸ‡±..@KURD 5, server: 178.239.173.23, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD, server: 194.15.196.78, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 2, server: 194.15.196.78, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 3, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 4, server: 194.15.196.78, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 5, server: 194.15.196.78, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 6, server: 194.15.196.78, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 7, server: 194.15.196.78, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 8, server: 194.15.196.78, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 9, server: 194.15.196.78, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 10, server: 194.15.196.78, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: pl ðŸ‡µðŸ‡±..@KURD 11, server: 194.15.196.78, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD, server: 62.216.92.167, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 2, server: 62.216.92.167, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 3, server: 62.216.92.167, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 4, server: 62.216.92.167, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 5, server: 62.216.92.167, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 6, server: 62.216.92.167, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 7, server: 62.216.92.167, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 8, server: 62.216.92.167, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 9, server: 62.216.92.167, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ro ðŸ‡·ðŸ‡´..@KURD 10, server: 185.233.150.6, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+  - {name: ru ðŸ‡·ðŸ‡º..@KURD, server: 92.38.139.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: ru ðŸ‡·ðŸ‡º..@KURD 2, server: 5.188.224.107, port: 5623, type: ss, cipher: chacha20-ietf-poly1305, password: Sx61v42%%%%%%%%%, udp: true}
+  - {name: ru ðŸ‡·ðŸ‡º..@KURD 3, server: 194.34.239.105, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
+  - {name: ru ðŸ‡·ðŸ‡º..@KURD 4, server: 92.223.65.31, port: 29092, type: ss, cipher: chacha20-ietf-poly1305, password: ypoq8dJBPqst, udp: true}
+  - {name: se ðŸ‡¸ðŸ‡ª..@KURD, server: 196.196.156.122, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD, server: 217.197.161.138, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 2, server: 217.197.161.138, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 3, server: 217.197.161.136, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 4, server: 217.197.161.136, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 5, server: 217.197.161.138, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 6, server: 217.197.161.136, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 7, server: 217.197.161.138, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 8, server: 81.90.189.152, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 9, server: 217.197.161.136, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 10, server: 217.197.161.138, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 11, server: 217.197.161.138, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 12, server: 217.197.161.136, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 13, server: 217.197.161.136, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 14, server: 217.197.161.136, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 15, server: 81.90.189.152, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 16, server: 217.197.161.136, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 17, server: 217.197.161.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 18, server: 81.90.189.152, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 19, server: 81.90.189.152, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 20, server: 217.197.161.138, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 21, server: 217.197.161.138, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 22, server: 217.197.161.136, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 23, server: 217.197.161.138, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: sg ðŸ‡¸ðŸ‡¬..@KURD 24, server: 217.197.161.138, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: tr ðŸ‡¹ðŸ‡·..@KURD, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
+  - {name: ua ðŸ‡ºðŸ‡¦..@KURD, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
+  - {name: ua ðŸ‡ºðŸ‡¦..@KURD 2, server: 176.103.61.162, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: IjBemsAg, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD, server: 54.36.174.181, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 2, server: 109.169.72.249, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 3, server: 54.36.174.181, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 4, server: 109.169.72.249, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 5, server: 109.169.72.249, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 6, server: 109.169.72.249, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 7, server: 54.36.174.181, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 8, server: 212.38.189.174, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 9, server: 5.188.5.190, port: 15256, type: ss, cipher: chacha20-ietf-poly1305, password: 4SGLMZ7Z83fN, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 10, server: 212.38.189.174, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 11, server: 54.36.174.181, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 12, server: 163.172.110.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 13, server: 212.38.189.174, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 14, server: 212.38.189.174, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 15, server: 212.38.189.174, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 16, server: 54.36.174.181, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 17, server: 54.36.174.181, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 18, server: 212.38.189.174, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 19, server: 212.38.189.174, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 20, server: 212.38.189.174, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 21, server: 212.38.189.174, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 22, server: 212.38.189.174, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 23, server: 212.38.189.174, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 24, server: 212.38.189.174, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 25, server: 54.36.174.181, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 26, server: 54.36.174.181, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 27, server: 212.38.189.174, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 28, server: 54.36.174.181, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 29, server: 212.38.189.174, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 30, server: 54.36.174.181, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 31, server: 54.36.174.181, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 32, server: 109.169.72.249, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 33, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 34, server: 54.36.174.181, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: uk ðŸ‡¬ðŸ‡§..@KURD 35, server: 54.36.174.181, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD, server: 167.88.62.34, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 2, server: 38.68.134.190, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 3, server: 167.88.63.28, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 4, server: 162.251.61.221, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 5, server: 38.68.134.191, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 6, server: 38.91.107.43, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 7, server: 167.88.62.34, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 8, server: 167.88.63.61, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 9, server: 38.64.138.145, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 10, server: 142.202.48.43, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 11, server: 162.251.61.47, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 12, server: 142.202.48.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 13, server: 167.88.63.5, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 14, server: 38.68.134.191, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 15, server: 167.88.63.59, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 16, server: 167.88.63.82, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 17, server: 38.121.43.142, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 18, server: 38.75.137.249, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 19, server: 142.202.48.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 20, server: 38.75.137.249, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp%%%%%%%%%\x04T", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 21, server: 142.202.48.45, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 22, server: 142.202.48.58, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 23, server: 167.88.62.34, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 24, server: 142.202.48.74, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 25, server: 167.88.62.68, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 26, server: 38.114.114.69, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 27, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 28, server: 167.88.63.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 29, server: 38.68.134.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: us ðŸ‡ºðŸ‡¸..@KURD 30, server: 167.88.63.71, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoO%%%%%%%%%\x04\x07lkAA9yP%%%%%%%%%\x04\x07P", udp: true}
+proxy-groups:
+  - name: ðŸ“Œ Manual Select [BN]
+    type: select
+    proxies:
+      - ðŸŒ€ AUTO PING [BN]
+      - ae ðŸ‡¦ðŸ‡ª..@KURD
+      - ba ðŸ‡§ðŸ‡¦..@KURD
+      - ba ðŸ‡§ðŸ‡¦..@KURD 2
+      - ba ðŸ‡§ðŸ‡¦..@KURD 3
+      - ba ðŸ‡§ðŸ‡¦..@KURD 4
+      - ba ðŸ‡§ðŸ‡¦..@KURD 5
+      - ba ðŸ‡§ðŸ‡¦..@KURD 6
+      - ba ðŸ‡§ðŸ‡¦..@KURD 7
+      - ba ðŸ‡§ðŸ‡¦..@KURD 8
+      - ba ðŸ‡§ðŸ‡¦..@KURD 9
+      - ba ðŸ‡§ðŸ‡¦..@KURD 10
+      - ba ðŸ‡§ðŸ‡¦..@KURD 11
+      - ba ðŸ‡§ðŸ‡¦..@KURD 12
+      - ba ðŸ‡§ðŸ‡¦..@KURD 13
+      - ba ðŸ‡§ðŸ‡¦..@KURD 14
+      - ba ðŸ‡§ðŸ‡¦..@KURD 15
+      - ba ðŸ‡§ðŸ‡¦..@KURD 16
+      - ba ðŸ‡§ðŸ‡¦..@KURD 17
+      - ba ðŸ‡§ðŸ‡¦..@KURD 18
+      - ba ðŸ‡§ðŸ‡¦..@KURD 19
+      - ba ðŸ‡§ðŸ‡¦..@KURD 20
+      - ba ðŸ‡§ðŸ‡¦..@KURD 21
+      - ba ðŸ‡§ðŸ‡¦..@KURD 22
+      - ba ðŸ‡§ðŸ‡¦..@KURD 23
+      - ba ðŸ‡§ðŸ‡¦..@KURD 24
+      - ba ðŸ‡§ðŸ‡¦..@KURD 25
+      - ba ðŸ‡§ðŸ‡¦..@KURD 26
+      - ba ðŸ‡§ðŸ‡¦..@KURD 27
+      - ba ðŸ‡§ðŸ‡¦..@KURD 28
+      - ba ðŸ‡§ðŸ‡¦..@KURD 29
+      - ba ðŸ‡§ðŸ‡¦..@KURD 30
+      - ba ðŸ‡§ðŸ‡¦..@KURD 31
+      - ba ðŸ‡§ðŸ‡¦..@KURD 32
+      - ba ðŸ‡§ðŸ‡¦..@KURD 33
+      - ba ðŸ‡§ðŸ‡¦..@KURD 34
+      - ba ðŸ‡§ðŸ‡¦..@KURD 35
+      - ba ðŸ‡§ðŸ‡¦..@KURD 36
+      - ba ðŸ‡§ðŸ‡¦..@KURD 37
+      - ba ðŸ‡§ðŸ‡¦..@KURD 38
+      - ba ðŸ‡§ðŸ‡¦..@KURD 39
+      - ba ðŸ‡§ðŸ‡¦..@KURD 40
+      - ba ðŸ‡§ðŸ‡¦..@KURD 41
+      - ba ðŸ‡§ðŸ‡¦..@KURD 42
+      - ba ðŸ‡§ðŸ‡¦..@KURD 43
+      - ba ðŸ‡§ðŸ‡¦..@KURD 44
+      - ba ðŸ‡§ðŸ‡¦..@KURD 45
+      - ba ðŸ‡§ðŸ‡¦..@KURD 46
+      - ba ðŸ‡§ðŸ‡¦..@KURD 47
+      - ba ðŸ‡§ðŸ‡¦..@KURD 48
+      - ba ðŸ‡§ðŸ‡¦..@KURD 49
+      - be ðŸ‡§ðŸ‡ª..@KURD
+      - be ðŸ‡§ðŸ‡ª..@KURD 2
+      - ca ðŸ‡¨ðŸ‡¦..@KURD
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 2
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 3
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 4
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 5
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 6
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 7
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 8
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 9
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 10
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 11
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 12
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 13
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 14
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 15
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 16
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 17
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 18
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 19
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 20
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 21
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 22
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 23
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 24
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 25
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 26
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 27
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 28
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 29
+      - de ðŸ‡©ðŸ‡ª..@KURD
+      - de ðŸ‡©ðŸ‡ª..@KURD 2
+      - de ðŸ‡©ðŸ‡ª..@KURD 3
+      - de ðŸ‡©ðŸ‡ª..@KURD 4
+      - de ðŸ‡©ðŸ‡ª..@KURD 5
+      - de ðŸ‡©ðŸ‡ª..@KURD 6
+      - de ðŸ‡©ðŸ‡ª..@KURD 7
+      - de ðŸ‡©ðŸ‡ª..@KURD 8
+      - de ðŸ‡©ðŸ‡ª..@KURD 9
+      - de ðŸ‡©ðŸ‡ª..@KURD 10
+      - de ðŸ‡©ðŸ‡ª..@KURD 11
+      - de ðŸ‡©ðŸ‡ª..@KURD 12
+      - de ðŸ‡©ðŸ‡ª..@KURD 13
+      - de ðŸ‡©ðŸ‡ª..@KURD 14
+      - de ðŸ‡©ðŸ‡ª..@KURD 15
+      - de ðŸ‡©ðŸ‡ª..@KURD 16
+      - de ðŸ‡©ðŸ‡ª..@KURD 17
+      - de ðŸ‡©ðŸ‡ª..@KURD 18
+      - de ðŸ‡©ðŸ‡ª..@KURD 19
+      - de ðŸ‡©ðŸ‡ª..@KURD 20
+      - de ðŸ‡©ðŸ‡ª..@KURD 21
+      - de ðŸ‡©ðŸ‡ª..@KURD 22
+      - de ðŸ‡©ðŸ‡ª..@KURD 23
+      - de ðŸ‡©ðŸ‡ª..@KURD 24
+      - de ðŸ‡©ðŸ‡ª..@KURD 25
+      - de ðŸ‡©ðŸ‡ª..@KURD 26
+      - de ðŸ‡©ðŸ‡ª..@KURD 27
+      - de ðŸ‡©ðŸ‡ª..@KURD 28
+      - de ðŸ‡©ðŸ‡ª..@KURD 29
+      - de ðŸ‡©ðŸ‡ª..@KURD 30
+      - de ðŸ‡©ðŸ‡ª..@KURD 31
+      - de ðŸ‡©ðŸ‡ª..@KURD 32
+      - de ðŸ‡©ðŸ‡ª..@KURD 33
+      - de ðŸ‡©ðŸ‡ª..@KURD 34
+      - de ðŸ‡©ðŸ‡ª..@KURD 35
+      - de ðŸ‡©ðŸ‡ª..@KURD 36
+      - de ðŸ‡©ðŸ‡ª..@KURD 37
+      - de ðŸ‡©ðŸ‡ª..@KURD 38
+      - de ðŸ‡©ðŸ‡ª..@KURD 39
+      - fr ðŸ‡«ðŸ‡·..@KURD
+      - fr ðŸ‡«ðŸ‡·..@KURD 2
+      - fr ðŸ‡«ðŸ‡·..@KURD 3
+      - fr ðŸ‡«ðŸ‡·..@KURD 4
+      - fr ðŸ‡«ðŸ‡·..@KURD 5
+      - fr ðŸ‡«ðŸ‡·..@KURD 6
+      - fr ðŸ‡«ðŸ‡·..@KURD 7
+      - fr ðŸ‡«ðŸ‡·..@KURD 8
+      - fr ðŸ‡«ðŸ‡·..@KURD 9
+      - fr ðŸ‡«ðŸ‡·..@KURD 10
+      - fr ðŸ‡«ðŸ‡·..@KURD 11
+      - fr ðŸ‡«ðŸ‡·..@KURD 12
+      - fr ðŸ‡«ðŸ‡·..@KURD 13
+      - fr ðŸ‡«ðŸ‡·..@KURD 14
+      - fr ðŸ‡«ðŸ‡·..@KURD 15
+      - fr ðŸ‡«ðŸ‡·..@KURD 16
+      - fr ðŸ‡«ðŸ‡·..@KURD 17
+      - fr ðŸ‡«ðŸ‡·..@KURD 18
+      - fr ðŸ‡«ðŸ‡·..@KURD 19
+      - fr ðŸ‡«ðŸ‡·..@KURD 20
+      - fr ðŸ‡«ðŸ‡·..@KURD 21
+      - fr ðŸ‡«ðŸ‡·..@KURD 22
+      - fr ðŸ‡«ðŸ‡·..@KURD 23
+      - fr ðŸ‡«ðŸ‡·..@KURD 24
+      - fr ðŸ‡«ðŸ‡·..@KURD 25
+      - fr ðŸ‡«ðŸ‡·..@KURD 26
+      - fr ðŸ‡«ðŸ‡·..@KURD 27
+      - fr ðŸ‡«ðŸ‡·..@KURD 28
+      - fr ðŸ‡«ðŸ‡·..@KURD 29
+      - fr ðŸ‡«ðŸ‡·..@KURD 30
+      - fr ðŸ‡«ðŸ‡·..@KURD 31
+      - it ðŸ‡®ðŸ‡¹..@KURD
+      - it ðŸ‡®ðŸ‡¹..@KURD 2
+      - it ðŸ‡®ðŸ‡¹..@KURD 3
+      - jp ðŸ‡¯ðŸ‡µ..@KURD
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 2
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 3
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 4
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 5
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 6
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 7
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 8
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 9
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 10
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 11
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 12
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 13
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 14
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 15
+      - nl ðŸ‡³ðŸ‡±..@KURD
+      - nl ðŸ‡³ðŸ‡±..@KURD 2
+      - nl ðŸ‡³ðŸ‡±..@KURD 3
+      - nl ðŸ‡³ðŸ‡±..@KURD 4
+      - nl ðŸ‡³ðŸ‡±..@KURD 5
+      - pl ðŸ‡µðŸ‡±..@KURD
+      - pl ðŸ‡µðŸ‡±..@KURD 2
+      - pl ðŸ‡µðŸ‡±..@KURD 3
+      - pl ðŸ‡µðŸ‡±..@KURD 4
+      - pl ðŸ‡µðŸ‡±..@KURD 5
+      - pl ðŸ‡µðŸ‡±..@KURD 6
+      - pl ðŸ‡µðŸ‡±..@KURD 7
+      - pl ðŸ‡µðŸ‡±..@KURD 8
+      - pl ðŸ‡µðŸ‡±..@KURD 9
+      - pl ðŸ‡µðŸ‡±..@KURD 10
+      - pl ðŸ‡µðŸ‡±..@KURD 11
+      - ro ðŸ‡·ðŸ‡´..@KURD
+      - ro ðŸ‡·ðŸ‡´..@KURD 2
+      - ro ðŸ‡·ðŸ‡´..@KURD 3
+      - ro ðŸ‡·ðŸ‡´..@KURD 4
+      - ro ðŸ‡·ðŸ‡´..@KURD 5
+      - ro ðŸ‡·ðŸ‡´..@KURD 6
+      - ro ðŸ‡·ðŸ‡´..@KURD 7
+      - ro ðŸ‡·ðŸ‡´..@KURD 8
+      - ro ðŸ‡·ðŸ‡´..@KURD 9
+      - ro ðŸ‡·ðŸ‡´..@KURD 10
+      - ru ðŸ‡·ðŸ‡º..@KURD
+      - ru ðŸ‡·ðŸ‡º..@KURD 2
+      - ru ðŸ‡·ðŸ‡º..@KURD 3
+      - ru ðŸ‡·ðŸ‡º..@KURD 4
+      - se ðŸ‡¸ðŸ‡ª..@KURD
+      - sg ðŸ‡¸ðŸ‡¬..@KURD
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 2
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 3
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 4
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 5
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 6
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 7
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 8
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 9
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 10
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 11
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 12
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 13
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 14
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 15
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 16
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 17
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 18
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 19
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 20
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 21
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 22
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 23
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 24
+      - tr ðŸ‡¹ðŸ‡·..@KURD
+      - ua ðŸ‡ºðŸ‡¦..@KURD
+      - ua ðŸ‡ºðŸ‡¦..@KURD 2
+      - uk ðŸ‡¬ðŸ‡§..@KURD
+      - uk ðŸ‡¬ðŸ‡§..@KURD 2
+      - uk ðŸ‡¬ðŸ‡§..@KURD 3
+      - uk ðŸ‡¬ðŸ‡§..@KURD 4
+      - uk ðŸ‡¬ðŸ‡§..@KURD 5
+      - uk ðŸ‡¬ðŸ‡§..@KURD 6
+      - uk ðŸ‡¬ðŸ‡§..@KURD 7
+      - uk ðŸ‡¬ðŸ‡§..@KURD 8
+      - uk ðŸ‡¬ðŸ‡§..@KURD 9
+      - uk ðŸ‡¬ðŸ‡§..@KURD 10
+      - uk ðŸ‡¬ðŸ‡§..@KURD 11
+      - uk ðŸ‡¬ðŸ‡§..@KURD 12
+      - uk ðŸ‡¬ðŸ‡§..@KURD 13
+      - uk ðŸ‡¬ðŸ‡§..@KURD 14
+      - uk ðŸ‡¬ðŸ‡§..@KURD 15
+      - uk ðŸ‡¬ðŸ‡§..@KURD 16
+      - uk ðŸ‡¬ðŸ‡§..@KURD 17
+      - uk ðŸ‡¬ðŸ‡§..@KURD 18
+      - uk ðŸ‡¬ðŸ‡§..@KURD 19
+      - uk ðŸ‡¬ðŸ‡§..@KURD 20
+      - uk ðŸ‡¬ðŸ‡§..@KURD 21
+      - uk ðŸ‡¬ðŸ‡§..@KURD 22
+      - uk ðŸ‡¬ðŸ‡§..@KURD 23
+      - uk ðŸ‡¬ðŸ‡§..@KURD 24
+      - uk ðŸ‡¬ðŸ‡§..@KURD 25
+      - uk ðŸ‡¬ðŸ‡§..@KURD 26
+      - uk ðŸ‡¬ðŸ‡§..@KURD 27
+      - uk ðŸ‡¬ðŸ‡§..@KURD 28
+      - uk ðŸ‡¬ðŸ‡§..@KURD 29
+      - uk ðŸ‡¬ðŸ‡§..@KURD 30
+      - uk ðŸ‡¬ðŸ‡§..@KURD 31
+      - uk ðŸ‡¬ðŸ‡§..@KURD 32
+      - uk ðŸ‡¬ðŸ‡§..@KURD 33
+      - uk ðŸ‡¬ðŸ‡§..@KURD 34
+      - uk ðŸ‡¬ðŸ‡§..@KURD 35
+      - us ðŸ‡ºðŸ‡¸..@KURD
+      - us ðŸ‡ºðŸ‡¸..@KURD 2
+      - us ðŸ‡ºðŸ‡¸..@KURD 3
+      - us ðŸ‡ºðŸ‡¸..@KURD 4
+      - us ðŸ‡ºðŸ‡¸..@KURD 5
+      - us ðŸ‡ºðŸ‡¸..@KURD 6
+      - us ðŸ‡ºðŸ‡¸..@KURD 7
+      - us ðŸ‡ºðŸ‡¸..@KURD 8
+      - us ðŸ‡ºðŸ‡¸..@KURD 9
+      - us ðŸ‡ºðŸ‡¸..@KURD 10
+      - us ðŸ‡ºðŸ‡¸..@KURD 11
+      - us ðŸ‡ºðŸ‡¸..@KURD 12
+      - us ðŸ‡ºðŸ‡¸..@KURD 13
+      - us ðŸ‡ºðŸ‡¸..@KURD 14
+      - us ðŸ‡ºðŸ‡¸..@KURD 15
+      - us ðŸ‡ºðŸ‡¸..@KURD 16
+      - us ðŸ‡ºðŸ‡¸..@KURD 17
+      - us ðŸ‡ºðŸ‡¸..@KURD 18
+      - us ðŸ‡ºðŸ‡¸..@KURD 19
+      - us ðŸ‡ºðŸ‡¸..@KURD 20
+      - us ðŸ‡ºðŸ‡¸..@KURD 21
+      - us ðŸ‡ºðŸ‡¸..@KURD 22
+      - us ðŸ‡ºðŸ‡¸..@KURD 23
+      - us ðŸ‡ºðŸ‡¸..@KURD 24
+      - us ðŸ‡ºðŸ‡¸..@KURD 25
+      - us ðŸ‡ºðŸ‡¸..@KURD 26
+      - us ðŸ‡ºðŸ‡¸..@KURD 27
+      - us ðŸ‡ºðŸ‡¸..@KURD 28
+      - us ðŸ‡ºðŸ‡¸..@KURD 29
+      - us ðŸ‡ºðŸ‡¸..@KURD 30
+  - name: ðŸŒ€ AUTO PING [BN]
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - ae ðŸ‡¦ðŸ‡ª..@KURD
+      - ba ðŸ‡§ðŸ‡¦..@KURD
+      - ba ðŸ‡§ðŸ‡¦..@KURD 2
+      - ba ðŸ‡§ðŸ‡¦..@KURD 3
+      - ba ðŸ‡§ðŸ‡¦..@KURD 4
+      - ba ðŸ‡§ðŸ‡¦..@KURD 5
+      - ba ðŸ‡§ðŸ‡¦..@KURD 6
+      - ba ðŸ‡§ðŸ‡¦..@KURD 7
+      - ba ðŸ‡§ðŸ‡¦..@KURD 8
+      - ba ðŸ‡§ðŸ‡¦..@KURD 9
+      - ba ðŸ‡§ðŸ‡¦..@KURD 10
+      - ba ðŸ‡§ðŸ‡¦..@KURD 11
+      - ba ðŸ‡§ðŸ‡¦..@KURD 12
+      - ba ðŸ‡§ðŸ‡¦..@KURD 13
+      - ba ðŸ‡§ðŸ‡¦..@KURD 14
+      - ba ðŸ‡§ðŸ‡¦..@KURD 15
+      - ba ðŸ‡§ðŸ‡¦..@KURD 16
+      - ba ðŸ‡§ðŸ‡¦..@KURD 17
+      - ba ðŸ‡§ðŸ‡¦..@KURD 18
+      - ba ðŸ‡§ðŸ‡¦..@KURD 19
+      - ba ðŸ‡§ðŸ‡¦..@KURD 20
+      - ba ðŸ‡§ðŸ‡¦..@KURD 21
+      - ba ðŸ‡§ðŸ‡¦..@KURD 22
+      - ba ðŸ‡§ðŸ‡¦..@KURD 23
+      - ba ðŸ‡§ðŸ‡¦..@KURD 24
+      - ba ðŸ‡§ðŸ‡¦..@KURD 25
+      - ba ðŸ‡§ðŸ‡¦..@KURD 26
+      - ba ðŸ‡§ðŸ‡¦..@KURD 27
+      - ba ðŸ‡§ðŸ‡¦..@KURD 28
+      - ba ðŸ‡§ðŸ‡¦..@KURD 29
+      - ba ðŸ‡§ðŸ‡¦..@KURD 30
+      - ba ðŸ‡§ðŸ‡¦..@KURD 31
+      - ba ðŸ‡§ðŸ‡¦..@KURD 32
+      - ba ðŸ‡§ðŸ‡¦..@KURD 33
+      - ba ðŸ‡§ðŸ‡¦..@KURD 34
+      - ba ðŸ‡§ðŸ‡¦..@KURD 35
+      - ba ðŸ‡§ðŸ‡¦..@KURD 36
+      - ba ðŸ‡§ðŸ‡¦..@KURD 37
+      - ba ðŸ‡§ðŸ‡¦..@KURD 38
+      - ba ðŸ‡§ðŸ‡¦..@KURD 39
+      - ba ðŸ‡§ðŸ‡¦..@KURD 40
+      - ba ðŸ‡§ðŸ‡¦..@KURD 41
+      - ba ðŸ‡§ðŸ‡¦..@KURD 42
+      - ba ðŸ‡§ðŸ‡¦..@KURD 43
+      - ba ðŸ‡§ðŸ‡¦..@KURD 44
+      - ba ðŸ‡§ðŸ‡¦..@KURD 45
+      - ba ðŸ‡§ðŸ‡¦..@KURD 46
+      - ba ðŸ‡§ðŸ‡¦..@KURD 47
+      - ba ðŸ‡§ðŸ‡¦..@KURD 48
+      - ba ðŸ‡§ðŸ‡¦..@KURD 49
+      - be ðŸ‡§ðŸ‡ª..@KURD
+      - be ðŸ‡§ðŸ‡ª..@KURD 2
+      - ca ðŸ‡¨ðŸ‡¦..@KURD
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 2
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 3
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 4
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 5
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 6
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 7
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 8
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 9
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 10
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 11
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 12
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 13
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 14
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 15
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 16
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 17
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 18
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 19
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 20
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 21
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 22
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 23
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 24
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 25
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 26
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 27
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 28
+      - ca ðŸ‡¨ðŸ‡¦..@KURD 29
+      - de ðŸ‡©ðŸ‡ª..@KURD
+      - de ðŸ‡©ðŸ‡ª..@KURD 2
+      - de ðŸ‡©ðŸ‡ª..@KURD 3
+      - de ðŸ‡©ðŸ‡ª..@KURD 4
+      - de ðŸ‡©ðŸ‡ª..@KURD 5
+      - de ðŸ‡©ðŸ‡ª..@KURD 6
+      - de ðŸ‡©ðŸ‡ª..@KURD 7
+      - de ðŸ‡©ðŸ‡ª..@KURD 8
+      - de ðŸ‡©ðŸ‡ª..@KURD 9
+      - de ðŸ‡©ðŸ‡ª..@KURD 10
+      - de ðŸ‡©ðŸ‡ª..@KURD 11
+      - de ðŸ‡©ðŸ‡ª..@KURD 12
+      - de ðŸ‡©ðŸ‡ª..@KURD 13
+      - de ðŸ‡©ðŸ‡ª..@KURD 14
+      - de ðŸ‡©ðŸ‡ª..@KURD 15
+      - de ðŸ‡©ðŸ‡ª..@KURD 16
+      - de ðŸ‡©ðŸ‡ª..@KURD 17
+      - de ðŸ‡©ðŸ‡ª..@KURD 18
+      - de ðŸ‡©ðŸ‡ª..@KURD 19
+      - de ðŸ‡©ðŸ‡ª..@KURD 20
+      - de ðŸ‡©ðŸ‡ª..@KURD 21
+      - de ðŸ‡©ðŸ‡ª..@KURD 22
+      - de ðŸ‡©ðŸ‡ª..@KURD 23
+      - de ðŸ‡©ðŸ‡ª..@KURD 24
+      - de ðŸ‡©ðŸ‡ª..@KURD 25
+      - de ðŸ‡©ðŸ‡ª..@KURD 26
+      - de ðŸ‡©ðŸ‡ª..@KURD 27
+      - de ðŸ‡©ðŸ‡ª..@KURD 28
+      - de ðŸ‡©ðŸ‡ª..@KURD 29
+      - de ðŸ‡©ðŸ‡ª..@KURD 30
+      - de ðŸ‡©ðŸ‡ª..@KURD 31
+      - de ðŸ‡©ðŸ‡ª..@KURD 32
+      - de ðŸ‡©ðŸ‡ª..@KURD 33
+      - de ðŸ‡©ðŸ‡ª..@KURD 34
+      - de ðŸ‡©ðŸ‡ª..@KURD 35
+      - de ðŸ‡©ðŸ‡ª..@KURD 36
+      - de ðŸ‡©ðŸ‡ª..@KURD 37
+      - de ðŸ‡©ðŸ‡ª..@KURD 38
+      - de ðŸ‡©ðŸ‡ª..@KURD 39
+      - fr ðŸ‡«ðŸ‡·..@KURD
+      - fr ðŸ‡«ðŸ‡·..@KURD 2
+      - fr ðŸ‡«ðŸ‡·..@KURD 3
+      - fr ðŸ‡«ðŸ‡·..@KURD 4
+      - fr ðŸ‡«ðŸ‡·..@KURD 5
+      - fr ðŸ‡«ðŸ‡·..@KURD 6
+      - fr ðŸ‡«ðŸ‡·..@KURD 7
+      - fr ðŸ‡«ðŸ‡·..@KURD 8
+      - fr ðŸ‡«ðŸ‡·..@KURD 9
+      - fr ðŸ‡«ðŸ‡·..@KURD 10
+      - fr ðŸ‡«ðŸ‡·..@KURD 11
+      - fr ðŸ‡«ðŸ‡·..@KURD 12
+      - fr ðŸ‡«ðŸ‡·..@KURD 13
+      - fr ðŸ‡«ðŸ‡·..@KURD 14
+      - fr ðŸ‡«ðŸ‡·..@KURD 15
+      - fr ðŸ‡«ðŸ‡·..@KURD 16
+      - fr ðŸ‡«ðŸ‡·..@KURD 17
+      - fr ðŸ‡«ðŸ‡·..@KURD 18
+      - fr ðŸ‡«ðŸ‡·..@KURD 19
+      - fr ðŸ‡«ðŸ‡·..@KURD 20
+      - fr ðŸ‡«ðŸ‡·..@KURD 21
+      - fr ðŸ‡«ðŸ‡·..@KURD 22
+      - fr ðŸ‡«ðŸ‡·..@KURD 23
+      - fr ðŸ‡«ðŸ‡·..@KURD 24
+      - fr ðŸ‡«ðŸ‡·..@KURD 25
+      - fr ðŸ‡«ðŸ‡·..@KURD 26
+      - fr ðŸ‡«ðŸ‡·..@KURD 27
+      - fr ðŸ‡«ðŸ‡·..@KURD 28
+      - fr ðŸ‡«ðŸ‡·..@KURD 29
+      - fr ðŸ‡«ðŸ‡·..@KURD 30
+      - fr ðŸ‡«ðŸ‡·..@KURD 31
+      - it ðŸ‡®ðŸ‡¹..@KURD
+      - it ðŸ‡®ðŸ‡¹..@KURD 2
+      - it ðŸ‡®ðŸ‡¹..@KURD 3
+      - jp ðŸ‡¯ðŸ‡µ..@KURD
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 2
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 3
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 4
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 5
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 6
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 7
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 8
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 9
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 10
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 11
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 12
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 13
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 14
+      - jp ðŸ‡¯ðŸ‡µ..@KURD 15
+      - nl ðŸ‡³ðŸ‡±..@KURD
+      - nl ðŸ‡³ðŸ‡±..@KURD 2
+      - nl ðŸ‡³ðŸ‡±..@KURD 3
+      - nl ðŸ‡³ðŸ‡±..@KURD 4
+      - nl ðŸ‡³ðŸ‡±..@KURD 5
+      - pl ðŸ‡µðŸ‡±..@KURD
+      - pl ðŸ‡µðŸ‡±..@KURD 2
+      - pl ðŸ‡µðŸ‡±..@KURD 3
+      - pl ðŸ‡µðŸ‡±..@KURD 4
+      - pl ðŸ‡µðŸ‡±..@KURD 5
+      - pl ðŸ‡µðŸ‡±..@KURD 6
+      - pl ðŸ‡µðŸ‡±..@KURD 7
+      - pl ðŸ‡µðŸ‡±..@KURD 8
+      - pl ðŸ‡µðŸ‡±..@KURD 9
+      - pl ðŸ‡µðŸ‡±..@KURD 10
+      - pl ðŸ‡µðŸ‡±..@KURD 11
+      - ro ðŸ‡·ðŸ‡´..@KURD
+      - ro ðŸ‡·ðŸ‡´..@KURD 2
+      - ro ðŸ‡·ðŸ‡´..@KURD 3
+      - ro ðŸ‡·ðŸ‡´..@KURD 4
+      - ro ðŸ‡·ðŸ‡´..@KURD 5
+      - ro ðŸ‡·ðŸ‡´..@KURD 6
+      - ro ðŸ‡·ðŸ‡´..@KURD 7
+      - ro ðŸ‡·ðŸ‡´..@KURD 8
+      - ro ðŸ‡·ðŸ‡´..@KURD 9
+      - ro ðŸ‡·ðŸ‡´..@KURD 10
+      - ru ðŸ‡·ðŸ‡º..@KURD
+      - ru ðŸ‡·ðŸ‡º..@KURD 2
+      - ru ðŸ‡·ðŸ‡º..@KURD 3
+      - ru ðŸ‡·ðŸ‡º..@KURD 4
+      - se ðŸ‡¸ðŸ‡ª..@KURD
+      - sg ðŸ‡¸ðŸ‡¬..@KURD
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 2
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 3
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 4
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 5
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 6
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 7
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 8
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 9
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 10
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 11
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 12
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 13
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 14
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 15
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 16
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 17
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 18
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 19
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 20
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 21
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 22
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 23
+      - sg ðŸ‡¸ðŸ‡¬..@KURD 24
+      - tr ðŸ‡¹ðŸ‡·..@KURD
+      - ua ðŸ‡ºðŸ‡¦..@KURD
+      - ua ðŸ‡ºðŸ‡¦..@KURD 2
+      - uk ðŸ‡¬ðŸ‡§..@KURD
+      - uk ðŸ‡¬ðŸ‡§..@KURD 2
+      - uk ðŸ‡¬ðŸ‡§..@KURD 3
+      - uk ðŸ‡¬ðŸ‡§..@KURD 4
+      - uk ðŸ‡¬ðŸ‡§..@KURD 5
+      - uk ðŸ‡¬ðŸ‡§..@KURD 6
+      - uk ðŸ‡¬ðŸ‡§..@KURD 7
+      - uk ðŸ‡¬ðŸ‡§..@KURD 8
+      - uk ðŸ‡¬ðŸ‡§..@KURD 9
+      - uk ðŸ‡¬ðŸ‡§..@KURD 10
+      - uk ðŸ‡¬ðŸ‡§..@KURD 11
+      - uk ðŸ‡¬ðŸ‡§..@KURD 12
+      - uk ðŸ‡¬ðŸ‡§..@KURD 13
+      - uk ðŸ‡¬ðŸ‡§..@KURD 14
+      - uk ðŸ‡¬ðŸ‡§..@KURD 15
+      - uk ðŸ‡¬ðŸ‡§..@KURD 16
+      - uk ðŸ‡¬ðŸ‡§..@KURD 17
+      - uk ðŸ‡¬ðŸ‡§..@KURD 18
+      - uk ðŸ‡¬ðŸ‡§..@KURD 19
+      - uk ðŸ‡¬ðŸ‡§..@KURD 20
+      - uk ðŸ‡¬ðŸ‡§..@KURD 21
+      - uk ðŸ‡¬ðŸ‡§..@KURD 22
+      - uk ðŸ‡¬ðŸ‡§..@KURD 23
+      - uk ðŸ‡¬ðŸ‡§..@KURD 24
+      - uk ðŸ‡¬ðŸ‡§..@KURD 25
+      - uk ðŸ‡¬ðŸ‡§..@KURD 26
+      - uk ðŸ‡¬ðŸ‡§..@KURD 27
+      - uk ðŸ‡¬ðŸ‡§..@KURD 28
+      - uk ðŸ‡¬ðŸ‡§..@KURD 29
+      - uk ðŸ‡¬ðŸ‡§..@KURD 30
+      - uk ðŸ‡¬ðŸ‡§..@KURD 31
+      - uk ðŸ‡¬ðŸ‡§..@KURD 32
+      - uk ðŸ‡¬ðŸ‡§..@KURD 33
+      - uk ðŸ‡¬ðŸ‡§..@KURD 34
+      - uk ðŸ‡¬ðŸ‡§..@KURD 35
+      - us ðŸ‡ºðŸ‡¸..@KURD
+      - us ðŸ‡ºðŸ‡¸..@KURD 2
+      - us ðŸ‡ºðŸ‡¸..@KURD 3
+      - us ðŸ‡ºðŸ‡¸..@KURD 4
+      - us ðŸ‡ºðŸ‡¸..@KURD 5
+      - us ðŸ‡ºðŸ‡¸..@KURD 6
+      - us ðŸ‡ºðŸ‡¸..@KURD 7
+      - us ðŸ‡ºðŸ‡¸..@KURD 8
+      - us ðŸ‡ºðŸ‡¸..@KURD 9
+      - us ðŸ‡ºðŸ‡¸..@KURD 10
+      - us ðŸ‡ºðŸ‡¸..@KURD 11
+      - us ðŸ‡ºðŸ‡¸..@KURD 12
+      - us ðŸ‡ºðŸ‡¸..@KURD 13
+      - us ðŸ‡ºðŸ‡¸..@KURD 14
+      - us ðŸ‡ºðŸ‡¸..@KURD 15
+      - us ðŸ‡ºðŸ‡¸..@KURD 16
+      - us ðŸ‡ºðŸ‡¸..@KURD 17
+      - us ðŸ‡ºðŸ‡¸..@KURD 18
+      - us ðŸ‡ºðŸ‡¸..@KURD 19
+      - us ðŸ‡ºðŸ‡¸..@KURD 20
+      - us ðŸ‡ºðŸ‡¸..@KURD 21
+      - us ðŸ‡ºðŸ‡¸..@KURD 22
+      - us ðŸ‡ºðŸ‡¸..@KURD 23
+      - us ðŸ‡ºðŸ‡¸..@KURD 24
+      - us ðŸ‡ºðŸ‡¸..@KURD 25
+      - us ðŸ‡ºðŸ‡¸..@KURD 26
+      - us ðŸ‡ºðŸ‡¸..@KURD 27
+      - us ðŸ‡ºðŸ‡¸..@KURD 28
+      - us ðŸ‡ºðŸ‡¸..@KURD 29
+      - us ðŸ‡ºðŸ‡¸..@KURD 30
+rules:
+ - MATCH,ðŸŒ€ AUTO PING [BN],ðŸ“Œ Manual Select [BN]
