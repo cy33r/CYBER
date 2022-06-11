@@ -300,7 +300,7 @@ proxy-groups:
   - name: 🔰 ALL PROXIES
     type: select
     proxies:
-      - 🔥 AUTO (BEST PING)
+      - 🔥 AUTO(BEST PING)
       - AE 🇦🇪 Sharjah @KURD
       - AU 🇦🇺 Sydney @KURD
       - AU 🇦🇺 Sydney @KURD 2
@@ -502,7 +502,7 @@ proxy-groups:
       - ZA 🇿🇦 @KURD
       - ZA 🇿🇦 @KURD 2
 
-  - name: 🔥 AUTO (BEST PING)
+  - name: 🔥 AUTO(BEST PING)
     type: url-test
     url: http://connectivitycheck.gstatic.com/generate_204
     interval: 600
@@ -714,4 +714,4 @@ proxy-groups:
       - DIRECT
 
 rules:
- - MATCH,🔰 ALL PROXIES,🔥 AUTO (BEST PING)
+ - MATCH,🔰 ALL PROXIES,🔥 AUTO(BEST PING)
