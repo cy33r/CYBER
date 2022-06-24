@@ -1,213 +1,1271 @@
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0A4NC4zMy4xOTMuNzk6MTg3NjA=#@KURD_%F0%9F%87%AE%F0%9F%87%B9_IT_2
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4yMjU6NjY5Nw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_13
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMg==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_15
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4yMjU6MjM3NQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_16
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xODguOTk6ODExOQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNAOTIuMzguMTY5LjE5Njo4MjY=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_18
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4yMjU6NTAwNA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_19
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMjI1OjU1MDA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTI=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_23
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4xODQ6MjM3Ng==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_24
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE5OC41Ny4yNy4yMjU6NzMwNw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDY=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_27
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTk4LjU3LjI3LjE4NDo4MDA5#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_28
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xODguOTk6NDQ0NA==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_29
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMTg0OjgwODA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_30
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE5OC41Ny4yNy4yMjU6NDQz#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_31
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0Mi4yMDIuNDguNzo2Njc5#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_32
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4xODQ6NjY3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDg=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJakJlbXNBZ0AxNzYuMTAzLjYxLjE2Mjo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_35
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_36
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDkxLjIzMi4xMDUuMjUzOjIzNzU=#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3RAOTIuMjIzLjY1LjMxOjI5MDky#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_39
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDkxLjIzMi4xMDUuMjUzOjIzNzU=#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3RAOTIuMjIzLjY1LjMxOjI5MDky#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2czQDE5NC4zNC4yMzkuMTA1OjE4NzYw#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_61
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0AyMTIuNjguNTUuMTE6MTg3NjA=#@KURD_%F0%9F%87%B9%F0%9F%87%B7_TR_62
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xODguOTk6ODExOQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_63
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xODguOTk6NzMwNw==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_64
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xODguOTk6NDQ0NA==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_66
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OC43OjgwMDk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_67
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xODguOTk6MjM3Ng==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_68
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDE5OC41Ny4yNy4yMjU6NjM3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTE=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_70
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTk4LjU3LjI3LjIyNTo5MTAy#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_71
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_72
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4xODQ6NTAwMw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_73
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OC43OjMzODk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_75
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjIyNTo4ODg4#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_76
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OC43OjgwMDk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_77
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AODUuMTE0LjEzOC45Mjo4MDk=#@KURD_%F0%9F%87%A9%F0%9F%87%AA_DE_81
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0A4NC4zMy4xOTMuNzk6MTg3NjA=#@KURD_%F0%9F%87%AE%F0%9F%87%B9_IT_82
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xODguOTk6NzMwNw==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_84
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE4OC45OTo1NjAx#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_88
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDE=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_94
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4yMjU6NjY5Nw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_95
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMg==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_97
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4yMjU6MjM3NQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_98
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE0Mi4yMDIuNDguNzoyMzc1#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_99
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDkxLjIzMi4xMDUuMjUzOjIzNzU=#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_100
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xODguOTk6ODExOQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_102
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNAOTIuMzguMTY5LjE5Njo4MjY=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_103
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xODguOTk6MjM3Ng==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_104
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4yMjU6NTAwNA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_105
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjIyNTo1NjAw#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_106
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMjI1OjU1MDA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_107
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTI=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_109
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4xODQ6MjM3Ng==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_110
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE5OC41Ny4yNy4yMjU6NzMwNw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_111
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDY=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_113
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDguNzo1MDA0#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_114
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTk4LjU3LjI3LjE4NDo4MDA5#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_115
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xODguOTk6NDQ0NA==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_116
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMTg0OjgwODA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_117
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE5OC41Ny4yNy4yMjU6NDQz#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_118
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0Mi4yMDIuNDguNzo2Njc5#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_119
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4xODQ6NjY3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_120
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDg=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJakJlbXNBZ0AxNzYuMTAzLjYxLjE2Mjo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_122
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_123
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDkxLjIzMi4xMDUuMjUzOjIzNzU=#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_124
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_125
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3RAOTIuMjIzLjY1LjMxOjI5MDky#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_126
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0AyMTIuNjguNTUuMTE6MTg3NjA=#@KURD_%F0%9F%87%B9%F0%9F%87%B7_TR_141
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xODguOTk6ODExOQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_142
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xODguOTk6NzMwNw==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_143
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE4OC45OTo1NjAx#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_144
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OC43OjgwMDk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_145
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xODguOTk6MjM3Ng==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_146
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjE4NDo1NjAx#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_147
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4xODQ6NTAwMw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDg=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_149
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAOTEuMjMyLjEwNS4yNTM6OTEwMQ==#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_154
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3RAOTIuMjIzLjY1LjMxOjI5MDky#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AODUuMTE0LjEzOC45Mjo4MDk=#@KURD_%F0%9F%87%A9%F0%9F%87%AA_DE_158
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTk4LjU3LjI3LjE4NDo4MDA5#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_249
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjE4NDozMzg5#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_250
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE5OC41Ny4yNy4xODQ6NzMwNw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_251
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_252
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE5OC41Ny4yNy4yMjU6ODExOA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_253
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE5OC41Ny4yNy4yMjU6NzMwNw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_254
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4xODQ6NTAwMw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_255
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDU=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_256
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4yMjU6MjM3NQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_257
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMTg0OjgwODA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_258
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4xODQ6NjY3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_259
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTk4LjU3LjI3LjIyNTo5MTAx#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_260
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDE=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_261
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE5OC41Ny4yNy4xODQ6NzMwNg==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_262
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4xODQ6MjM3NQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_263
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5OC41Ny4yNy4xODQ6ODA5MA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_264
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjE4NDozMzA2#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_265
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDc=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_266
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5OC41Ny4yNy4xODQ6ODA5MQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_267
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjIyNTo4ODg4#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_268
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4yMjU6NjY3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_269
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE5OC41Ny4yNy4xODQ6NDQz#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_270
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5OC41Ny4yNy4xODQ6MjM3Ng==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_271
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTI=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_272
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDY=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_273
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTk4LjU3LjI3LjIyNTo4MDA4#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_274
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDE5OC41Ny4yNy4yMjU6NjM3OQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_275
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjE4NDo1NjAx#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_276
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDE5OC41Ny4yNy4yMjU6ODg4MQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_277
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4yMjU6NTAwNA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_278
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxOTguNTcuMjcuMjI1OjU1MDA=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_279
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMg==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_280
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjIyNTozMzA2#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_281
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTk4LjU3LjI3LjIyNTo4MDA5#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_282
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTk4LjU3LjI3LjIyNTo1NjAw#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_283
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE5OC41Ny4yNy4yMjU6NDQz#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_284
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE5OC41Ny4yNy4yMjU6NjY5Nw==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_285
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTk4LjU3LjI3LjIyNTo5MTAy#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_286
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE5OC41Ny4yNy4yMjU6NzAwMQ==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_287
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE5OC41Ny4yNy4xODQ6NTAwNA==#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_288
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTE=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_289
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDg=#@KURD_%F0%9F%87%A8%F0%9F%87%A6_CA_290
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AODUuMTE0LjEzOC45Mjo4MDk=#@KURD_%F0%9F%87%A9%F0%9F%87%AA_DE_291
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEhAMTU1LjEzMy4xMzAuOTM6NDQz#@KURD_%F0%9F%87%AB%F0%9F%87%B7_FR_310
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDYyLjIxMC4xMTMuOTg6NjY3OQ==#@KURD_%F0%9F%87%AB%F0%9F%87%B7_FR_313
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTU4LjU4LjE3My4yNDA6ODEy#@KURD_%F0%9F%87%AE%F0%9F%87%B9_IT_322
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0A4NC4zMy4xOTMuNzk6MTg3NjA=#@KURD_%F0%9F%87%AE%F0%9F%87%B9_IT_323
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTU4LjU4LjE3My4yNDA6ODA2#@KURD_%F0%9F%87%AE%F0%9F%87%B9_IT_324
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODAz#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_325
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODEx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_326
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODEy#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_327
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODA0#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_328
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODA1#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_329
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjE2MC4yNC4yMTc6ODA4#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_330
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MTo1NjAx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_331
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MTozMzg5#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_332
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDg1LjIwOC4xMDguNjE6ODA5MA==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_334
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDkxLjIzMi4xMDUuMjUzOjIzNzU=#@KURD_%F0%9F%87%B3%F0%9F%87%B1_NL_335
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDg1LjIwOC4xMDguNjE6NDQz#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_338
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MjozMzA2#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_340
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDg1LjIwOC4xMDguNjI6NjM3OQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_342
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAODUuMjA4LjEwOC42Mjo4MDA4#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_343
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAODUuMjA4LjEwOC42MTo4MDA4#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_345
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MTo1MDAx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_346
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDg1LjIwOC4xMDguNjE6NTAwNA==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_350
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDg1LjIwOC4xMDguNjI6NTAwNA==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_351
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDg1LjIwOC4xMDguNjI6NzMwNw==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_352
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDg1LjIwOC4xMDguNjI6MjM3Ng==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_353
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAODUuMjA4LjEwOC42MTo4MDA5#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_355
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDg1LjIwOC4xMDguNjI6NTAwMw==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_356
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42Mjo1MDAw#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_358
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAODUuMjA4LjEwOC42MTo5MTAy#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_359
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDg1LjIwOC4xMDguNjE6MjM3NQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_360
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDg1LjIwOC4xMDguNjI6NjY5Nw==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_361
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDg1LjIwOC4xMDguNjI6NDQz#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_364
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguNjI6NzAwMQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_366
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MTo1NjAw#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_367
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42Mjo1MDAx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_368
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA4NS4yMDguMTA4LjYxOjgwMDA=#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_369
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDg1LjIwOC4xMDguNjE6NjY5Nw==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_370
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42Mjo1NjAx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_371
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguNjE6NzAwMg==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_375
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42Mjo1NjAw#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_376
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MjozMzg5#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_378
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDg1LjIwOC4xMDguNjE6NzMwNw==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_379
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAODUuMjA4LjEwOC42Mjo4MDA5#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_380
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDg1LjIwOC4xMDguNjI6NjY3OQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_382
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDg1LjIwOC4xMDguNjE6NzMwNg==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_383
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAODUuMjA4LjEwOC42MTo5MTAx#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_384
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC42MTo4ODg4#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_387
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDg1LjIwOC4xMDguNjI6MjM3NQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_389
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDg1LjIwOC4xMDguNjE6ODExOQ==#@KURD_%F0%9F%87%AF%F0%9F%87%B5_JP_392
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDUxLjc3LjUzLjIwMDoyMzc2#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_393
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDUxLjc3LjUzLjIwMDoyMzc1#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_394
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDUxLjc3LjUzLjIwMDo3MzA2#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_395
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDUxLjc3LjUzLjIwMDo4MDkx#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_396
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDUxLjc3LjUzLjIwMDo3MzA3#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_397
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDUxLjc3LjUzLjIwMDo4MDkw#@KURD_%F0%9F%87%B5%F0%9F%87%B1_PL_398
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cG9xOGRKQlBxc3RAOTIuMjIzLjY1LjMxOjI5MDky#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_399
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaHRVQm5oWDY5amlANzcuODMuMjQ3LjIwOjQ0Mw==#@KURD_%F0%9F%87%AE%F0%9F%87%B1_IL_400
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2czQDE5NC4zNC4yMzkuMTA1OjE4NzYw#@KURD_%F0%9F%87%B7%F0%9F%87%BA_RU_401
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBob0A3Ny4xMjAuMTE1LjIzNTo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_402
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJakJlbXNBZ0AxNzYuMTAzLjYxLjE2Mjo0NDQ=#@KURD_%F0%9F%87%BA%F0%9F%87%A6_UA_403
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Q2pteEd6clVvQkFAMzcuMjE4LjI0MS40Mzo0NDM=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_409
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xODguOTk6ODExOQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_415
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE0Mi4yMDIuNDguNzo4MDkx#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_448
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE0Mi4yMDIuNDguNzoyMzc1#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_450
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjQxMWU4Ny0zZTkzLTRmMjMtYmMyMi0yNjNhNzQ4YmM4YzVAMTY0LjkyLjEwNy41OToxNjQ1#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_453
-ss://YWVzLTI1Ni1nY206M2Y0MTFlODctM2U5My00ZjIzLWJjMjItMjYzYTc0OGJjOGM1QDE2NC45Mi45OS4yNTU6NDY0OQ==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_454
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC44Ni4xMzUuMTY5OjgwMDA=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_459
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANS4xODEuMjM0LjI1NDo4MDk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_464
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xODguOTk6NDQ0NA==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_477
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjQxMWU4Ny0zZTkzLTRmMjMtYmMyMi0yNjNhNzQ4YmM4YzVAMTY0LjkyLjExNS44OTozMTI1#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_491
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE0Mi4yMDIuNDguNzoyMzc2#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_492
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xODguOTk6NzMwNw==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_498
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xODguOTk6MjM3Ng==#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_501
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC44Ni4xMzUuMTY5OjU1MDA=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_517
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OC43OjMzMDY=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_521
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDguNzo1MDA0#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_533
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OC43OjgwMDk=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_541
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE0Mi4yMDIuNDguNzo3MzA2#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_542
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNAOTIuMzguMTY5LjE5Njo4MjY=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_545
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNANS4xODguMTExLjE4Mjo4MjY=#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_547
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0Mi4yMDIuNDguNzo2Njc5#@KURD_%F0%9F%87%BA%F0%9F%87%B8_US_552
+[
+    {
+      "server": "79.133.110.137",
+      "server_port": 1002,
+      "password": "yKXvZ7ozrV046F4p8q6501LH",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ba_ðŸ‡§ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.233.150.6",
+      "server_port": 18760,
+      "password": "hg49$WH8943g3",
+      "method": "aes-256-gcm",
+      "remarks": "ba_ðŸ‡§ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "198.57.27.61",
+      "server_port": 811,
+      "password": "Ultr@r00t_2017",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 806,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 811,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 807,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "72.140.224.197",
+      "server_port": 811,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 806,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.161.118.38",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ca_ðŸ‡¨ðŸ‡¦ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "51.38.118.42",
+      "server_port": 811,
+      "password": "Ultr@r00t_2017",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "fr_ðŸ‡«ðŸ‡·ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.66.56.99",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "hk_ðŸ‡­ðŸ‡°ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.66.56.99",
+      "server_port": 804,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "hk_ðŸ‡­ðŸ‡°ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.66.56.99",
+      "server_port": 810,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "hk_ðŸ‡­ðŸ‡°ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.66.56.99",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "hk_ðŸ‡­ðŸ‡°ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "77.83.247.20",
+      "server_port": 443,
+      "password": "ihtUBnhX69ji",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ilðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.33.193.79",
+      "server_port": 18760,
+      "password": "hg49$WH8943g3",
+      "method": "aes-256-gcm",
+      "remarks": "it_ðŸ‡®ðŸ‡¹ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8091,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8090,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 6679,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8080,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 5500,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 7001,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 6679,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8090,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8881,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8118,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8119,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 5500,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 6697,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 7002,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 6697,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.31.126.171",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8119,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8091,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 7001,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8080,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8118,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 7001,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 7002,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8881,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8119,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8080,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 5500,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8000,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8000,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8118,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8091,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.31.126.150",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 7002,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 8881,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.31.126.150",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8000,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.59",
+      "server_port": 6679,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.21",
+      "server_port": 8881,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "85.208.108.60",
+      "server_port": 6697,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "jp_ðŸ‡¯ðŸ‡µðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 7001,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8119,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 6679,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 5500,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8080,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8118,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 7002,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 6697,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.15.196.78",
+      "server_port": 8000,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "pl_ðŸ‡µðŸ‡±ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.34.239.105",
+      "server_port": 18760,
+      "password": "hg49$WH8943g3",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "ru_ðŸ‡·ðŸ‡ºðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 810,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 806,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "139.99.120.234",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 810,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 811,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 811,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 807,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 804,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 809,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 803,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 807,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 809,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 804,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 806,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 804,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 809,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 812,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 811,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 807,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 803,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 810,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.40",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 806,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.48",
+      "server_port": 802,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.124.35.42",
+      "server_port": 803,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "sg_ðŸ‡¸ðŸ‡¬ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "188.132.209.15",
+      "server_port": 15303,
+      "password": "HZb52eFfHGeb",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "tr_ðŸ‡¹ðŸ‡·ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.68.55.11",
+      "server_port": 18760,
+      "password": "hg49$WH8943g3",
+      "method": "aes-256-gcm",
+      "remarks": "tr_ðŸ‡¹ðŸ‡·ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 5500,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8091,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8882,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8000,
+      "password": "KixLvKzwjekG00rm",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "109.169.72.249",
+      "server_port": 809,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 6697,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "109.169.72.249",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "109.169.72.249",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "109.169.72.249",
+      "server_port": 808,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8118,
+      "password": "cdBIDV42DCwnfIN",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "109.169.72.249",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 7002,
+      "password": "RexnBgU7EV5ADxG",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 6679,
+      "password": "TEzjfAYq2IjtuoS",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8090,
+      "password": "PCnnH6SQSnfoS27",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.38.189.174",
+      "server_port": 8881,
+      "password": "kDWvXYZoTBcGkC4",
+      "method": "aes-256-gcm",
+      "remarks": "uk_ðŸ‡¬ðŸ‡§ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.245.218.162",
+      "server_port": 810,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "us_ðŸ‡ºðŸ‡¸ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.245.218.162",
+      "server_port": 805,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "us_ðŸ‡ºðŸ‡¸ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.245.218.162",
+      "server_port": 801,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "us_ðŸ‡ºðŸ‡¸ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.245.218.162",
+      "server_port": 800,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "us_ðŸ‡ºðŸ‡¸ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.245.218.162",
+      "server_port": 809,
+      "password": "G!yBwPWH3Vao",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "us_ðŸ‡ºðŸ‡¸ðŸŒ€@KURD3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    }
+]
